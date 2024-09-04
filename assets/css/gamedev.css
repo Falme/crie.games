@@ -1,0 +1,186 @@
+body
+{
+  background-color: black;
+  margin: 0px;
+}
+
+h1, h2, h3, h4
+{
+  color: #fefcd4;
+}
+
+.button
+{ 
+  color: black;
+  text-decoration: none;
+}
+
+a
+{
+  color: orange;
+  text-decoration: none;
+}
+
+a:hover
+{
+  color: purple;
+}
+
+.grid
+{
+  text-align: center;
+  float: center;
+  width: 100%;
+}
+
+.textbox
+{
+  color: #CCCCCC;
+  text-align: justify;
+  font-family: 'calibri', sans-serif;
+  font-size: 22px;
+  width: 80%;
+  margin: auto;
+  /* border-image: url(../images/border_pattern.jpg) 33% round; */
+  border-style: solid;
+  border-color: #808080;
+  border-width: 5px;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.textbox img
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+.textbox h1, .textbox h2, .textbox h3, .textbox h4
+{
+  text-align: center;
+}
+
+.separator
+{
+  height: 1px;
+  border-bottom: 3px solid #808080;
+  width: 100%;
+}
+
+.text-separator
+{
+  height: 1px;
+  border-bottom: 2px solid #303030;
+  width: 80%;
+  margin: auto;
+}
+
+.header
+{
+  display: inline-block;
+  width: 100%;
+  height: 250px;
+  text-align: center;
+}
+
+.title
+{
+  height: 200px;
+  width: 1200px;
+  margin: 0 auto;
+  margin-top: 50px;
+  align-items: center;
+  display: flex;
+}
+
+.title .container
+{
+  width: 100%;
+  margin-top: -30px;
+}
+
+.title .container a
+{
+  padding: 40px;
+}
+
+.nav-section
+{
+  font-family: 'calibri', sans-serif;
+  font-size: 18px;
+  /* position: sticky; */
+  /* align-self: start; */
+  font-weight: 300;
+  color: #333;
+  top: 2rem;
+  grid-column: 1 / -1;
+  grid-row: 1;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  pointer-events: none; 
+  height:100%;
+}
+
+.nav-section a 
+{
+  transition: all 50ms ease-in-out;
+  text-decoration: none;
+  padding: .125rem 0;
+  display: block;
+  color: #CCC;
+  /* width: 20%; */
+  pointer-events: auto; 
+}
+
+.nav-section a:hover,
+.nav-section a:focus 
+{
+  color: #666;
+}
+
+ul, ol 
+{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  color: #888;
+}
+
+ul
+{
+  margin-left: 3rem;
+}
+
+li 
+{
+  margin-left: 2rem;
+}
+
+grid 
+{
+  display: grid;
+  grid-template-columns: 1fr 100%;
+}
+
+.nav-content
+{
+	grid-column: 2;
+	grid-row: 1;
+  max-width: 1280px;
+}
+
+html 
+{
+  scroll-behavior: smooth;
+}
+
+
+.footer
+{
+  text-align: center;
+  color: #fefcd4;
+}
