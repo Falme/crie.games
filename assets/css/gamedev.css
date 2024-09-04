@@ -1,6 +1,10 @@
 body
 {
-  background-color: black;
+  /* Blender Color */
+  /* background-color: #3f3f3f; */
+
+  /* Godot Color */
+  background-color: #272e36;
   margin: 0px;
 }
 
@@ -43,8 +47,8 @@ a:hover
   margin: auto;
   /* border-image: url(../images/border_pattern.jpg) 33% round; */
   border-style: solid;
-  border-color: #808080;
-  border-width: 5px;
+  border-color: #70a41c;
+  border-width: 4px;
   border-radius: 5px;
   padding: 20px;
 }
@@ -72,9 +76,24 @@ a:hover
 .text-separator
 {
   height: 1px;
-  border-bottom: 2px solid #303030;
+  border-bottom: 2px solid #f63652;
   width: 80%;
   margin: auto;
+}
+
+.ZGizmo
+{
+  border-color: #2f84e3;
+}
+
+.YGizmo
+{
+  border-color: #70a41c;
+}
+
+.XGizmo
+{
+  border-color: #f63652;
 }
 
 .header
