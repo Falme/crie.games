@@ -125,6 +125,21 @@ a:hover
   padding: 40px;
 }
 
+.home-anchor
+{
+  bottom: 10px;
+  right: 10px;
+  position: fixed;
+  align-self: start;
+  z-index: 999;
+  width: 60px;
+  height:60px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10%;
+  background-image: url('../images/to-top.svg');
+  background-size: cover;
+}
+
 .nav-section
 {
   font-family: 'calibri', sans-serif;
@@ -133,15 +148,15 @@ a:hover
   /* align-self: start; */
   font-weight: 300;
   color: #333;
-  top: 2rem;
+  /* top: 2rem;
   grid-column: 1 / -1;
-  grid-row: 1;
+  grid-row: 1; */
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  pointer-events: none; 
-  height:100%;
+  pointer-events: none;
+  /* height:100%; */
 }
 
 .nav-section a 

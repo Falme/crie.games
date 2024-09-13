@@ -19,7 +19,7 @@
 			<div class="separator ZGizmo"></div>
 			<br /><br />
 			<div class="row m-0">
-				<div class="col-12 col-md-3 sticky-md-top nav-section">
+				<div class="col-12 col-md-3 nav-section">
 					<ol>
 						<li><a href="#header">Inicio</a></li>
 						<li><a href="#nav-game">Quem Somos Nós?</a></li>
@@ -92,6 +92,9 @@
 						</ul>
 					</ol>
 					<br /><br /><br />
+					<div class="home-anchor">
+						<a href="#header" style="width:100%; height:100%;"></a>
+					</div>
 				</div>
 				<div class="col-12 col-md-9 nav-content" id="nav-header">
 					
