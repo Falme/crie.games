@@ -114,6 +114,8 @@
 
 					<?php include('includes/publicar.php'); ?>
 
+					<?php include('includes/contato.php'); ?>
+
 				</div>
 			</div>
 			<br /><br /><br />
