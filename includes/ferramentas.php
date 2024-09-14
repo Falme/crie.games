@@ -6,6 +6,7 @@
     <div class="text-separator"></div>
     <br /><br />
     Exatamente agora é o melhor momento na história para fazer jogos. As ferramentas para isso são de fácil acesso e milhares estão baratas ou de graça para qualquer um acessar. Ferramentas que fazem com que possamos nos conectar e trabalhar juntos, porém a distância como Discord. Ferramentas com soluções para onde colocar os arquivos como Google Drive ou Github, assim podendo compartilhar arquivos e trabalho sem um grande investimento financeiro. <br /><br />
+    Abaixo compilamos uma lista extensa de ferramentas para cada tipo de trabalho para seu jogo, e se tem uma lição que gostariamos que ficasse é que a ferramenta serve ao seu jogo e não ao contrário. Não se deve escolher primeiro a ferramenta e depois fazer seu projeto nela, e sim analisar as necessidades do projeto e ver qual ferramenta combina melhor ou serve melhor para concluir seu projeto. Não existe melhor ferramenta, existe a ferramenta melhor para realizar seu trabalho. <br /><br />
     <div id="nav-tools-engine"></div>
     <br />
     <div class="text-separator"></div>
