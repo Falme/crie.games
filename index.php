@@ -90,6 +90,7 @@
 						<ul>
 							<a href="#nav-launch-itch">Itch.io</a>
 						</ul>
+						<li><a href="#contato">Contato</a></li>
 					</ol>
 					<br /><br /><br />
 					<div class="home-anchor">
