@@ -12,7 +12,7 @@
 			<div id="header" class="row m-0">
 				<div class="col-12">
 					<div class="nav-section" style="margin-left: 2rem; top: 0.5rem; position: relative">
-						<h4>Crie Games <i>v0.0.1 - Edição: Hatsune Miku Brasileira</i></h4>
+						<h4>Crie Games <i>v0.0.2 - Edição: Cadeirada!</i></h4>
 					</div>
 				</div>
 			</div>
