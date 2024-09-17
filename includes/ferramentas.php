@@ -49,11 +49,16 @@
     <br />
     <div class="text-separator"></div>
     <br /><br />
-    Assim como acontece com engines, você deve escolher o programa de arte que funciona melhor para você. Só porque um programa custa mais ou é mais usado em determinados círculos não significa que seja melhor para você ou para seu fluxo de trabalho. Todo mundo trabalha de maneira diferente e todos se sentem mais ou menos confortáveis ​​com diferentes softwares e hardwares. Se você quiser usar o MS Paint em um tablet, tudo bem. Se você quiser usar o Photoshop em um Cintiq, tudo bem também. <br /><br /><br />
+    Assim como acontece com engines, você deve escolher o programa de arte que funciona melhor para você, de acordo com seu estilo e com o projeto que irá se dedicar. Só porque um programa custa mais ou é mais usado em determinados círculos não significa que seja melhor para você ou para seu fluxo de trabalho. Todo mundo trabalha de maneira diferente e todos se sentem mais ou menos confortáveis ​​com diferentes softwares e hardwares. Se você quiser usar o MS Paint em um tablet, tudo bem. Se você quiser usar o Photoshop em um Cintiq, tudo bem também. <br /><br /><br />
     <div class="text-separator"></div>
     <br /><br />
     <img src="assets/images/aseprite_splash.png" /> <br /><br />
-    <a href="https://www.aseprite.org/" target="_blank" rel="noopener noreferrer">Aseprite</a> é o verdadeiro deus das ferramentas de pixel art. Custando 38 reais, essa ferramenta é super acessível, mas também traz um bônus extra. Você pode obtê-lo gratuitamente. Se você compilar o Aseprite do <a href="https://github.com/aseprite/aseprite" target="_blank" rel="noopener noreferrer">github deles</a> então você terá a ferramenta totalmente de graça para você. Pegue essa ferramenta, use ela, faça incríveis pixel art. <br /><br /><br />
+    <a href="https://www.aseprite.org/" target="_blank" rel="noopener noreferrer">Aseprite</a> é o verdadeiro deus das ferramentas de pixel art. Custando 38 reais, essa ferramenta é super acessível, mas também traz um bônus extra. Pelos fórums recomendam que você compre pelo <a href="https://www.humblebundle.com/store/aseprite" target="_blank" rel="noopener noreferrer">Humble Bundle</a> quando tiver uma promoção, assim tendo a versão livre de DRM e uma chave para Steam em uma compra só. Você também pode obtê-lo gratuitamente se você compilar o Aseprite do <a href="https://github.com/aseprite/aseprite" target="_blank" rel="noopener noreferrer">github deles</a> ou pelo <a href="#libresprite">Libresprite</a> (logo abaixo) então você terá a ferramenta totalmente de graça para você. Pegue essa ferramenta, use ela, faça incríveis pixel art. <br /><br /><br />
+    <div class="text-separator"></div>
+    <div id="libresprite"></div>
+    <br /><br />
+    <img src="assets/images/libresprite.png" /> <br /><br />
+    <a href="https://libresprite.github.io/#!/" target="_blank" rel="noopener noreferrer">Libresprite</a> é um fork do Aseprite que permite que, de forma gratuita, você possa usar uma das melhores ferramentas de pixel art no mercado. Não precisa mexer com código ou criar scripts, só instalar e usar. Mas caso queira auxiliar o desenvolvimento, pode comprar a versão original do programa chamado <a href="https://www.aseprite.org/" target="_blank" rel="noopener noreferrer">Aseprite</a>. <br /><br /><br />
     <div class="text-separator"></div>
     <br /><br />
     <img src="assets/images/gimp_splash.png" style="width: 40%" /> <br /><br />
