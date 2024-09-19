@@ -6,7 +6,7 @@
     <div class="text-separator"></div>
     <br /><br />
     Vivemos no melhor momento na história para fazer jogos. As ferramentas para criar jogos são de fácil acesso e milhares estão baratas ou de graça para qualquer um acessar. Ferramentas que fazem com que possamos nos conectar e trabalhar juntos, porém a distância como Discord, Google Chat ou Slack. Ferramentas com soluções para onde colocar os arquivos como Google Drive ou Github, assim podendo compartilhar arquivos e trabalho sem um grande investimento financeiro. <br /><br />
-    Abaixo compilamos uma lista extensa de ferramentas para cada tipo de trabalho para seu jogo, e se tem uma lição que gostariamos que ficasse é que a ferramenta serve ao seu jogo e não ao contrário. Não se deve escolher primeiro a ferramenta e depois fazer seu projeto nela, e sim analisar as necessidades do projeto e ver qual ferramenta combina melhor ou serve melhor para concluir seu projeto. Não existe melhor ferramenta, existe a ferramenta melhor para realizar seu trabalho. <br /><br />
+    Abaixo compilamos uma lista extensa de ferramentas para cada tipo de trabalho para seu jogo, e se tem uma lição que gostaríamos que ficasse é que a ferramenta serve ao seu jogo e não ao contrário. Não se deve escolher primeiro a ferramenta e depois fazer seu projeto nela, e sim analisar as necessidades do projeto e ver qual ferramenta combina melhor ou serve melhor para concluir seu projeto. Não existe melhor ferramenta, existe a ferramenta melhor para realizar seu trabalho. <br /><br />
     <div id="nav-tools-engine"></div>
     <br />
     <div class="text-separator"></div>
@@ -15,7 +15,7 @@
     <br />
     <div class="text-separator"></div>
     <br /><br />
-    Escolha uma engine que dá suporte ao seu estilo de jogo e capacidade financeira. Não escolha engines baseado no que outras pessoas dizem que é a "Melhor" engine. Não existe uma "Melhor" egine. Existem ótimas engines para diferentes tipos de jogos. Ferramentas não são simplificadas baseada no seu preço ou falta de preço. Tem centenas de engines disponíveis por ai. Vá para o endereço <a href="https://enginesdatabase.com/" target="_blank" rel="noopener noreferrer"> Engines Database</a> e explore suas opções. <br /><br />
+    Escolha uma engine que dá suporte ao seu estilo de jogo e capacidade financeira. Não escolha engines baseado no que outras pessoas dizem que é a "Melhor" engine. Não existe uma "Melhor" engine. Existem ótimas engines para diferentes tipos de jogos. Ferramentas não são simplificadas baseada no seu preço ou falta de preço. Tem centenas de engines disponíveis por ai. Vá para o endereço <a href="https://enginesdatabase.com/" target="_blank" rel="noopener noreferrer"> Engines Database</a> e explore suas opções. <br /><br />
     <a href="https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/" target="_blank" rel="noopener noreferrer">Doki Doki Literature Club</a> foi feito em uma ferramenta grátis chamada <a href="https://www.renpy.org/" target="_blank" rel="noopener noreferrer">Ren'Py</a> que é feita especificamente para criar visual novels. <a href="https://store.steampowered.com/app/248820/Risk_of_Rain/" target="_blank" rel="noopener noreferrer">Risk of Rain</a> foi feito em <a href="https://www.yoyogames.com/en/gamemaker" target="_blank" rel="noopener noreferrer">GameMaker</a> e <a href="https://web.archive.org/web/20210920062120/https://riskofraingame.com/team/" target="_blank" rel="noopener noreferrer">MS Paint</a>. Sim, você leu certo... MS Paint. O custo das suas ferramentas não define o valor do que vai criar. <br /><br />
     Entenda que logo abaixo não é uma exaustiva lista de engines. Existe uma tonelada de engines que são boas ou ótimas para uma variedade de estilo de jogos para se criar. Então explore, encontre coisas, monte coisas, crie coisas, e não seja elitista sobre ferramentas. <br /><br /><br />
     <div class="text-separator"></div>
@@ -59,6 +59,10 @@
     <br /><br />
     <img src="assets/images/libresprite.png" /> <br /><br />
     <a href="https://libresprite.github.io/#!/" target="_blank" rel="noopener noreferrer">Libresprite</a> é um fork do Aseprite que permite que, de forma gratuita, você possa usar uma das melhores ferramentas de pixel art no mercado. Não precisa mexer com código ou criar scripts, só instalar e usar. Mas caso queira auxiliar o desenvolvimento, pode comprar a versão original do programa chamado <a href="https://www.aseprite.org/" target="_blank" rel="noopener noreferrer">Aseprite</a>. <br /><br /><br />
+    <div class="text-separator"></div>
+    <br /><br />
+    <img src="assets/images/inkscape.jpg" /> <br /><br />
+    <a href="https://inkscape.org/en/release/" target="_blank" rel="noopener noreferrer">Inkscape</a> é um editor gráfico em vetor similar ao Adobe Illustrator. A diferença é que ele é Open-Source e totalmente gratuito. Existe muito preconceito em cima do Inkscape pois as pessoas estão acostumadas a usar o Adobe Illustrator, mas posso garantir pra você que nos últimos anos eles se tornaram praticamente idênticos, as mesmas coisas que você pode fazer em um, você pode fazer no outro e de forma acessível, com certeza vale o teste. <br /><br /><br />
     <div class="text-separator"></div>
     <br /><br />
     <img src="assets/images/gimp_splash.png" style="width: 40%" /> <br /><br />
