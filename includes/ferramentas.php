@@ -69,6 +69,10 @@
     <a href="https://www.gimp.org/" target="_blank" rel="noopener noreferrer">Gimp</a> é uma ferramenta de edição de imagens incrivelmente fantástica, geralmente desprezada por ser o irmão feio do Photoshop. Dito isto, tem alguns superpoderes que o Photoshop não tem... não é propriedade da Adobe e é totalmente gratuito. Gimp é usado para muitas coisas ao longo dos anos, desde arte promocional até retoques em logotipos ou criação de recursos no jogo. Definitivamente, dê uma olhada nele, se não fez ainda. <br /><br /><br />
     <div class="text-separator"></div>
     <br /><br />
+    <img src="assets/images/krita.png" /> <br /><br />
+    <a href="https://krita.org/en/" target="_blank" rel="noopener noreferrer">Krita</a> é uma ferramenta fantástica para ilustração e animação. Ela é de graça e Open source fazendo com que tudo o que criar nela seja totalmente seu. Se ilustração e artes conceituais é algo que te interessa, Krita é um bom motivo para se libertar dos grilhões do Photoshop. <br /><br /><br />
+    <div class="text-separator"></div>
+    <br /><br />
     <img src="assets/images/blender_splash.png" /> <br /><br />
     <a href="https://www.blender.org/" target="_blank" rel="noopener noreferrer">Blender</a> é uma ferramenta de modelagem e animação 3D realmente poderosa e totalmente gratuita. Ele pode fazer coisas absolutamente insanas e, à medida que continua a evoluir, atingiu ou excedeu o poder das melhores ferramentas de modelagem 3D disponíveis no mercado. Se você deseja construir assets incríveis em 3D, então este é o seu carro-chefe. <br /><br />
     <div id="nav-tools-audio"></div>
