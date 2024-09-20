@@ -40,10 +40,10 @@
 							<a href="#nav-tools-engine">Programação</a>
 						</ul>
 						<ul>
-							<a href="#nav-tools-art">Programas de Arte</a>
+							<a href="#nav-tools-art">Arte e Modelagem</a>
 						</ul>
 						<ul>
-							<a href="#nav-tools-audio">Programas de Audio</a>
+							<a href="#nav-tools-audio">Audio</a>
 						</ul>
 						<li><a href="#nav-finance">Financiamento</a></li>
 						<ul>
