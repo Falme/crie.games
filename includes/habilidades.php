@@ -15,7 +15,7 @@
     <div class="text-separator"></div>
     <br /><br />
     <img src="assets/images/thomas_splash.jpg" /> <br /><br />
-    <a href="https://store.steampowered.com/app/220780/Thomas_Was_Alone/" target="_blank" rel="noopener noreferrer">Thomas Was Alone</a> é feito só com retangulos. Tudo, tudinho. Tudinho mesmo. Até as partículas. Também vai te emocionar e fazer chorar. Thomas Was Alone é uma obra prima na arte minimalista e narração. Você pode fazer formas simples. Você pode aprender particulas só com formas simples. Você pode criar um jogo só com formas e angulos que alcança o mesmo objetivo que Thomas Was Alone. Você consegue fazer um jogo. <br /><br /><br />
+    <a href="https://store.steampowered.com/app/220780/Thomas_Was_Alone/" target="_blank" rel="noopener noreferrer">Thomas Was Alone</a> é feito só com retangulos. Tudo, tudinho. Tudinho mesmo. Até as partículas. Também vai te emocionar e fazer chorar. Thomas Was Alone é uma obra prima na arte minimalista e narração. Você pode fazer formas simples. Você pode aprender particulas só com formas simples. Você pode criar um jogo só com formas e ângulos que alcança o mesmo objetivo que Thomas Was Alone. Você consegue fazer um jogo. <br /><br /><br />
     <div class="text-separator"></div>
     <br /><br />
     <img src="assets/images/suits_splash.jpg" /> <br /><br />
@@ -47,6 +47,6 @@
     <div class="text-separator"></div>
     <br /><br />
     <img src="assets/images/undertale_splash.jpg" /> <br /><br />
-    Sim, é isso mesmo que você leu. <a href="https://store.steampowered.com/app/391540/Undertale/" target="_blank" rel="noopener noreferrer" >Undertale</a> é um jogo INCRÍVEL. Tem um combate único, ótima história, os quebra-cabeças são bons, e tem boas piadas ruins a rodo. Toby Fox era só um programador iniciante quando começou e o código tem umas escolhas duvidosas em eficiencia. Mas isso importa? O jogo vai ser menos divertido por causa disso? Dica: Não importa. Você pode aprender programação enquanto desenvolve o jogo. Você consegue fazer um jogo. <br />
+    Sim, é isso mesmo que você leu. <a href="https://store.steampowered.com/app/391540/Undertale/" target="_blank" rel="noopener noreferrer" >Undertale</a> é um jogo INCRÍVEL. Tem um combate único, ótima história, os quebra-cabeças são bons, e tem boas piadas ruins a rodo. Toby Fox era só um programador iniciante quando começou e o código tem umas escolhas duvidosas em eficiência. Mas isso importa? O jogo vai ser menos divertido por causa disso? Dica: Não importa. Você pode aprender programação enquanto desenvolve o jogo. Você consegue fazer um jogo. <br />
 </div>
 <br /><br />

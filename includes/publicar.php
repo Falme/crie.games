@@ -26,7 +26,7 @@
 	<div id="nav-launch-jolt"></div>
 	<br />
 	<img src="assets/images/gamejolt_splash.jpg" /> <br /><br />
-	<a href="https://gamejolt.com/" target="_blank" rel="noopener noreferrer" >Game Jolt</a> é o deus dos sites de demonstração. Faça uma demonstração do seu jogo e coloque no Game Jolt. Quando lançamos uma demonstração de Heartbound no Steam pela primeira vez, vimos um tráfego mínimo. Assim que o colocamos no Game Jolt, milhares de pessoas o jogaram e, no primeiro ano, quase 95% de todos os vídeos do YouTube para Heartbound listaram o Game Jolt como o local de download. Foi muito importante para nós e realmente ajudou a divulgar o nosso jogo. Eles também oferecem um pouco de dinheiro extra com os anúncios exibidos na sua página de jogos. Eles não precisam fazer isso e é uma coisa muito boa para lucrar de vez em quando. <br /><br /><br />
+	<a href="https://gamejolt.com/" target="_blank" rel="noopener noreferrer" >Game Jolt</a> é o deus dos sites de demonstração. Faça uma demonstração do seu jogo e coloque no Game Jolt. Quando lançaram uma demonstração de Heartbound no Steam pela primeira vez, viram um tráfego mínimo. Assim que colocaram no Game Jolt, milhares de pessoas o jogaram e, no primeiro ano, quase 95% de todos os vídeos do YouTube para Heartbound listaram o Game Jolt como o local de download. Foi muito importante para eles e realmente ajudou a divulgar o jogo. Eles também oferecem um pouco de dinheiro extra com os anúncios exibidos na sua página de jogos. Eles não precisam fazer isso e é uma coisa muito boa para lucrar de vez em quando. <br /><br /><br />
 	<div class="text-separator"></div>
 	<br />
 	<div id="nav-launch-itch"></div>
