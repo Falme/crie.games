@@ -39,8 +39,8 @@
     <br />
     <div class="text-separator"></div>
     <br /><br />
-    <img src="assets/images/kick_splash.jpg" /> <br /><br />
-    <a href="https://www.kickstarter.com/" target="_blank" rel="noopener noreferrer">Kickstarter</a> é um ótimo lugar para arrecadar fundos quando você já tem uma base da comunidade e uma demonstração para apresentar. Eu não recomendaria seguir esse caminho antes de ter essas coisas prontas. Eu também não confiaria no Kickstarter como algo que financiará todo o desenvolvimento do seu jogo. Normalmente é usado como plataforma de marketing e para obter financiamento inicial para hardware, software e amostras de áudio. Espere para lançar seu Kickstarter até saber que terá sucesso. Não deixe isso ao acaso. <br /><br /><br />
+    <img src="assets/images/catarse.jpg" /> <br /><br />
+    <a href="https://www.catarse.me/" target="_blank" rel="noopener noreferrer">Catarse</a> é um ótimo lugar para arrecadar fundos quando você já tem uma base da comunidade e uma demonstração para apresentar. Eu não recomendaria seguir esse caminho antes de ter essas coisas prontas. Eu também não confiaria no Catarse como algo que financiará todo o desenvolvimento do seu jogo. Normalmente é usado como plataforma de marketing e para obter financiamento inicial para hardware e software. Também deve-se pensar nas recompensas do público por te financiar, isso também é um custo que deve ser pensado e balanceado com o financeiro. Espere para lançar seu Catarse até saber que terá sucesso. Não deixe isso ao acaso. <br /><br /><br />
     <div id="nav-finance-subscription"></div>
     <br />
     <div class="text-separator"></div>
