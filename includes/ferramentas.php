@@ -90,7 +90,8 @@
     <div class="text-separator"></div>
     <br /><br />
     <img src="assets/images/flstudio_splash.jpg" /> <br /><br />
-    <a href="https://www.image-line.com/fl-studio" target="_blank" rel="noopener noreferrer">FL Studio</a> é de longe o favorito para ferramentas de áudio. É incrivelmente fácil de usar, incrivelmente versátil, permitindo que você crie uma ampla variedade de coisas incríveis, e é bastante acessível, com um preço de 100 dólares para atualizações vitalícias. Se você realmente quer fazer mágica no áudio e quer algo poderoso e duradouro, o FL Studio é a escolha certa.
+    <a href="https://www.image-line.com/fl-studio" target="_blank" rel="noopener noreferrer">FL Studio</a> é de longe o favorito para ferramentas de áudio. É incrivelmente fácil de usar, incrivelmente versátil, permitindo que você crie uma ampla variedade de coisas incríveis, e é bastante acessível, com um preço de 100 dólares para atualizações vitalícias. Se você realmente quer fazer mágica no áudio e quer algo poderoso e duradouro, o FL Studio é a escolha certa. <br /><br /><br />
+    <div class="text-separator"></div>
     <br /><br />
     <img src="assets/images/chiptone.png" /> <br /><br />
     <a href="https://sfbgames.itch.io/chiptone" target="_blank" rel="noopener noreferrer">Chiptone</a> é a ferramenta perfeita para os famosos "bips e boops", gerando sons semelhantes a época dos 8 e 16 bits. É perfeito para efeitos sonoros se esse é o estilo do jogo que está buscando alcançar. E todos os sons que você gerar nele é totalmente gratuito para usar, pessoalmente ou comercialmente. Brinque um pouco com ele e veja o quão útil ele é.
