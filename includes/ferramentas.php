@@ -78,7 +78,7 @@
     <br />
     <div class="text-separator"></div>
     <br /><br />
-    As informações sobre áudio é baseada nas informações de <a href="http://stijnvanwakeren.com/" target="_blank" rel="noopener noreferrer">Stijn van Wakeren</a>, pois não é realmente a nossa área de especialização. Definitivamente, você deve contatá-los se tiver dúvidas sobre esses programas ou quiser obter mais informações sobre por que eles são tão poderosos. Dito isto, aqui estão alguns programas incríveis que você pode usar para criar música ou efeitos sonoros com relativa facilidade. <br /><br /><br />
+    As informações sobre áudio é baseada nas informações de <a href="http://stijnvanwakeren.com/" target="_blank" rel="noopener noreferrer">Stijn van Wakeren</a> pelo site develop.games, pois não é realmente a nossa área de especialização. Definitivamente, você deve entrar em contato com pessoas da área de áudio design se tiver dúvidas sobre esses programas ou quiser obter mais informações sobre por que eles são tão poderosos. Dito isto, aqui estão alguns programas incríveis que você pode usar para criar música ou efeitos sonoros com relativa facilidade. <br /><br /><br />
     <div class="text-separator"></div>
     <br /><br />
     <img src="assets/images/famistudio_splash.jpg" /> <br /><br />
