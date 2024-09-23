@@ -53,7 +53,7 @@
 							<a href="#nav-finance-publishers">Publicadoras</a>
 						</ul>
 						<ul>
-							<a href="#nav-finance-kick">Kickstarter</a>
+							<a href="#nav-finance-kick">Catarse</a>
 						</ul>
 						<ul>
 							<a href="#nav-finance-subscription">Serviços de Assinatura</a>
@@ -90,6 +90,7 @@
 						<ul>
 							<a href="#nav-launch-itch">Itch.io</a>
 						</ul>
+						<li><a href="#links-oficina">Links da Oficina de Game Design</a></li>
 						<li><a href="#contato">Contato</a></li>
 					</ol>
 					<br /><br /><br />
@@ -114,6 +115,8 @@
 					<?php include('includes/marketing.php'); ?>
 
 					<?php include('includes/publicar.php'); ?>
+
+					<?php include('includes/oficina-links.php'); ?>
 
 					<?php include('includes/contato.php'); ?>
 

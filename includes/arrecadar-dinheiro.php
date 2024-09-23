@@ -35,7 +35,7 @@
     <br />
     <div class="text-separator"></div>
     <br />
-    <h3>Kickstarter</h3>
+    <h3>Catarse</h3>
     <br />
     <div class="text-separator"></div>
     <br /><br />
