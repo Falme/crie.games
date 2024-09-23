@@ -23,15 +23,15 @@
 					<ol>
 						<li><a href="#header">Inicio</a></li>
 						<li><a href="#nav-game">Quem Somos Nós?</a></li>
-						<li><a href="#nav-skills">Habilidades Necessárias</a></li>
+						<li><a href="#nav-skills">Preciso saber de ... ?</a></li>
+						<ul>
+							<a href="#nav-skills-programming">Programação</a>
+						</ul>
 						<ul>
 							<a href="#nav-skills-art">Arte</a>
 						</ul>
 						<ul>
 							<a href="#nav-skills-music">Musica</a>
-						</ul>
-						<ul>
-							<a href="#nav-skills-programming">Programação</a>
 						</ul>
 						<li><a href="#nav-type">Escolhendo um Gênero</a></li>
 						<li><a href="#nav-team">Montando um Time</a></li>

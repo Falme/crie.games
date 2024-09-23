@@ -6,6 +6,16 @@
     <div class="text-separator"></div>
     <br /><br />
     E se eu te dissesse que você não precisa de nenhuma? Bem, adivinhe, você não precisa. Vivemos em uma eṕoca que podemos aprender qualquer coisa que precisa para desenvolver um jogo com facilidade. Mesmo que você acredite em talento e que algumas habilidades vem de nascença, Todos nós podemos aprender e nos dedicar a sermos melhores no que queremos fazer. Você pode fazer o mesmo. Abaixo temos alguns jogos que provam isso e que vão te inspirar. <br /><br />
+    <div id="nav-skills-programming"></div>
+    <br />
+    <div class="text-separator"></div>
+    <br />
+    <h3>Você não precisa ser um(a) programador(a) incrível.</h3>
+    <br />
+    <div class="text-separator"></div>
+    <br /><br />
+    <img src="assets/images/undertale_splash.jpg" /> <br /><br />
+    Sim, é isso mesmo que você leu. <a href="https://store.steampowered.com/app/391540/Undertale/" target="_blank" rel="noopener noreferrer" >Undertale</a> é um jogo INCRÍVEL. Tem um combate único, ótima história, os quebra-cabeças são bons, e tem boas piadas ruins a rodo. Toby Fox era só um programador iniciante quando começou e o código tem umas escolhas duvidosas em eficiência. Mas isso importa? O jogo vai ser menos divertido por causa disso? Dica: Não importa. Você pode aprender programação enquanto desenvolve o jogo. Você consegue fazer um jogo. <br />
     <div id="nav-skills-art"></div>
     <br />
     <div class="text-separator"></div>
@@ -38,15 +48,5 @@
     <br /><br />
     <img src="assets/images/hidden_splash.jpg" /> <br /><br />
     <a href="https://store.steampowered.com/app/435400/Hidden_Folks/" target="_blank" rel="noopener noreferrer">Hidden Folks</a> é uma bela evolução do "Onde está o Wally?". É super simples em seu conceito, mas muito efetivo na sua execução. A parte que mais chama a atenção nesse jogo é o áudio, em que tudo, e quando eu digo tudo é tudo mesmo, é feito com sons da boca. Toda a música, os efeitos sonoros, todo o áudio foi feito com o rosto de alguém. É incrível. Se você tem um rosto, então você consegue fazer um jogo. <br /><br />
-    <div id="nav-skills-programming"></div>
-    <br />
-    <div class="text-separator"></div>
-    <br />
-    <h3>Você não precisa ser um(a) programador(a) incrível.</h3>
-    <br />
-    <div class="text-separator"></div>
-    <br /><br />
-    <img src="assets/images/undertale_splash.jpg" /> <br /><br />
-    Sim, é isso mesmo que você leu. <a href="https://store.steampowered.com/app/391540/Undertale/" target="_blank" rel="noopener noreferrer" >Undertale</a> é um jogo INCRÍVEL. Tem um combate único, ótima história, os quebra-cabeças são bons, e tem boas piadas ruins a rodo. Toby Fox era só um programador iniciante quando começou e o código tem umas escolhas duvidosas em eficiência. Mas isso importa? O jogo vai ser menos divertido por causa disso? Dica: Não importa. Você pode aprender programação enquanto desenvolve o jogo. Você consegue fazer um jogo. <br />
 </div>
 <br /><br />
