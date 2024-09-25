@@ -81,6 +81,8 @@
     <li><a href="https://sfxr.me/" target="_blank" rel="noopener noreferrer"> JSFXR </a></li>
     <li><a href="https://www.fmod.com/" target="_blank" rel="noopener noreferrer"> FMOD </a></li>
     <li><a href="https://www.audiokinetic.com/en/wwise/overview/" target="_blank" rel="noopener noreferrer"> WWise </a></li>
+    <li><a href="https://www.gameuidatabase.com/" target="_blank" rel="noopener noreferrer"> Game UI Database </a></li>
+    <li><a href="https://interfaceingame.com/" target="_blank" rel="noopener noreferrer"> Interface In Game </a></li>
 
     <br /><br /><br />
     <div class="text-separator"></div>
