@@ -31,8 +31,8 @@ jobs:
         find . -name '*.css' -not -path './node_modules/*' -exec cleancss -o {} {} \;
 
     - name: Upload to FTP
-      uses: SamKirkland/FTP-Deploy-Action@4.3.0
+      uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
-        ftp-server: ${{ secrets.FTP_SERVER }}
-        ftp-username: ${{ secrets.FTP_USERNAME }}  # Use GitHub secrets to store credentials
-        ftp-password: ${{ secrets.FTP_PASSWORD }}  # Use GitHub secrets to store credentials
+        server: ${{ secrets.FTP_SERVER }}
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
