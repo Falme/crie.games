@@ -1,19 +1,38 @@
 name: 🚀 Deploy Changes to Website
+
 on:
   push:
     branches:
       - main
+
 jobs:
-  FTP-Deploy-Action:
-    name: FTP-Deploy-Action
+  build:
     runs-on: ubuntu-latest
+
     steps:
-    - uses: actions/checkout@v2.1.0
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
       with:
-        fetch-depth: 2
-    - name: FTP-Deploy-Action
-      uses: SamKirkland/FTP-Deploy-Action@4.3.3
+        node-version: '18'
+
+    - name: Install dependencies
+      run: |
+        npm install terser clean-css-cli
+
+    - name: Minify JavaScript
+      run: |
+        find . -name '*.js' -not -path './node_modules/*' -exec terser {} -o {} \;
+
+    - name: Minify CSS
+      run: |
+        find . -name '*.css' -not -path './node_modules/*' -exec cleancss -o {} {} \;
+
+    - name: Upload to FTP
+      uses: SamKirkland/FTP-Deploy-Action@4.3.0
       with:
-        server: ${{ secrets.FTP_SERVER }}
-        username: ${{ secrets.FTP_USERNAME }}
-        password: ${{ secrets.FTP_PASSWORD }}
+        ftp-server: ${{ secrets.FTP_SERVER }}
+        ftp-username: ${{ secrets.FTP_USERNAME }}  # Use GitHub secrets to store credentials
+        ftp-password: ${{ secrets.FTP_PASSWORD }}  # Use GitHub secrets to store credentials
