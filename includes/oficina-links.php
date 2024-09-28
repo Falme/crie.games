@@ -4,18 +4,15 @@
     <img src="assets/images/zeldinha.png" style="width: 80%" /> <br />
     <h1>Links e Referências da Oficina de Game Design</h1>
     <div class="text-separator"></div>
-    <br /><br />
-    Para ajudar os participantes da nossa Oficina de Introdução a Game Design, separamos aqui os links do material apresentado.
-    <br /><br />
-    Porém, seja você é um iniciante ou um desenvolvedor mais experiente, esse material pode servir para guiar sua aventura nas áreas criativas e técnicas do universo de criação de jogos.
-    <br /><br />
-    <br />
+    <p>
+        Para ajudar os participantes da nossa Oficina de Introdução a Game Design, separamos aqui os links do material apresentado.
+    </p>
+    <p>
+        Porém, seja você é um iniciante ou um desenvolvedor mais experiente, esse material pode servir para guiar sua aventura nas áreas criativas e técnicas do universo de criação de jogos.
+    </p>
     <div class="text-separator"></div>
-    <br />
     <h3>Livros</h3>
-    <br />
     <div class="text-separator"></div>
-    <br /><br />
 
     <li><a href="https://www.amazon.com.br/Homo-Ludens-Johan-Huizinga/dp/8527311577" target="_blank" rel="noopener noreferrer"> Homo ludens: O jogo como elemento da cultura </a></li>
     <li><a href="https://www.amazon.com.br/Os-jogos-homens-m%C3%A1scara-vertigem/dp/8532655254" target="_blank" rel="noopener noreferrer"> Os jogos e os homens: A máscara e a vertigem </a></li>
@@ -26,13 +23,9 @@
     <li><a href="https://www.amazon.com.br/Arte-Game-Design-Livro-Original/dp/8535241981" target="_blank" rel="noopener noreferrer"> A Arte De Game Design. O Livro Original </a></li>
     <li><a href="https://www.amazon.com/Challenges-Games-Designers-Non-Digital-Exercises/dp/1542453313" target="_blank" rel="noopener noreferrer"> Challenges for Games Designers: Non-Digital Exercises for Video Game Designers </a></li>
 
-    <br /><br /><br />
     <div class="text-separator"></div>
-    <br />
     <h3>Videos</h3>
-    <br />
     <div class="text-separator"></div>
-    <br /><br />
 
     <li><a href="https://www.youtube.com/watch?v=MU29Wqg_BVo" target="_blank" rel="noopener noreferrer"> O Mercado Informal de Video Games no Brasil </a></li>
     <li><a href="https://www.youtube.com/watch?v=BpYfeR7p8yw" target="_blank" rel="noopener noreferrer"> 1983 - O Ano dos Videogames no Brasil </a></li>
@@ -53,13 +46,9 @@
     <li><a href="https://www.youtube.com/watch?v=zVnOcmiEdIE" target="_blank" rel="noopener noreferrer"> Why Subnautica Owes Its Success to This Button </a></li>
     <li><a href="https://www.youtube.com/watch?v=ZH2wGpEZVgE" target="_blank" rel="noopener noreferrer"> Design Club - Super Mario Bros: Level 1-1 - How Super Mario Mastered Level Design </a></li>
     
-    <br /><br /><br />
     <div class="text-separator"></div>
-    <br />
     <h3>Ferramentas</h3>
-    <br />
     <div class="text-separator"></div>
-    <br /><br />
     
     <li><a href="https://godotengine.org/" target="_blank" rel="noopener noreferrer"> Godot Engine </a></li>
     <li><a href="https://www.unrealengine.com/en-US/download" target="_blank" rel="noopener noreferrer"> Unreal Engine </a></li>
@@ -84,15 +73,10 @@
     <li><a href="https://www.gameuidatabase.com/" target="_blank" rel="noopener noreferrer"> Game UI Database </a></li>
     <li><a href="https://interfaceingame.com/" target="_blank" rel="noopener noreferrer"> Interface In Game </a></li>
 
-    <br /><br /><br />
     <div class="text-separator"></div>
-    <br />
     <h3>Game Design Document (GDD)</h3>
-    <br />
     <div class="text-separator"></div>
-    <br /><br />
 
     <li><a href="https://docs.google.com/document/d/1t2NkvlaOOGfJUvrJ9yRG-I2DvLCgXaGc/edit#heading=h.gjdgxs" target="_blank" rel="noopener noreferrer"> Game Design Document - GDD - Mass Flux </a></li>
 
-    <br /><br /><br />
     </div>
