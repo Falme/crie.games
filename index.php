@@ -45,51 +45,6 @@
 						<ul>
 							<a href="#nav-tools-audio">Audio</a>
 						</ul>
-						<li><a href="#nav-finance">Financiamento</a></li>
-						<ul>
-							<a href="#nav-finance-stream">Streaming</a>
-						</ul>
-						<ul>
-							<a href="#nav-finance-publishers">Publicadoras</a>
-						</ul>
-						<ul>
-							<a href="#nav-finance-kick">Catarse</a>
-						</ul>
-						<ul>
-							<a href="#nav-finance-subscription">Serviços de Assinatura</a>
-						</ul>
-						<ul>
-							<a href="#nav-finance-scams">Golpes</a>
-						</ul>
-						<li><a href="#nav-marketing">Marketing</a></li>
-						<ul>
-							<a href="#nav-marketing-community">Construindo uma Comunidade</a>
-						</ul>
-						<ul>
-							<a href="#nav-marketing-socialmedia">Redes Sociais</a>
-						</ul>
-						<ul>
-							<a href="#nav-marketing-advertising">Anúncios Pagos</a>
-						</ul>
-						<ul>
-							<a href="#nav-marketing-conventions">Convenções</a>
-						</ul>
-						<ul>
-							<a href="#nav-marketing-awards">Premiações</a>
-						</ul>
-						<li><a href="#nav-launch">Lançando Seu Jogo</a></li>
-						<ul>
-							<a href="#nav-launch-steam">Steam</a>
-						</ul>
-						<ul>
-							<a href="#nav-launch-humble">Humble Bundle</a>
-						</ul>
-						<ul>
-							<a href="#nav-launch-jolt">Game Jolt</a>
-						</ul>
-						<ul>
-							<a href="#nav-launch-itch">Itch.io</a>
-						</ul>
 						<li><a href="#links-oficina">Links da Oficina de Game Design</a></li>
 						<li><a href="#contato">Contato</a></li>
 					</ol>
@@ -109,14 +64,6 @@
 					<?php include('includes/montar-time.php'); ?>
 
 					<?php include('includes/ferramentas.php'); ?>
-					
-					<!-- 
-					<?php include('includes/arrecadar-dinheiro.php'); ?>
-
-					<?php include('includes/marketing.php'); ?>
-
-					<?php include('includes/publicar.php'); ?> 
-					-->
 
 					<?php include('includes/oficina-links.php'); ?>
 
