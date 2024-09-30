@@ -109,12 +109,14 @@
 					<?php include('includes/montar-time.php'); ?>
 
 					<?php include('includes/ferramentas.php'); ?>
-
+					
+					<!-- 
 					<?php include('includes/arrecadar-dinheiro.php'); ?>
 
 					<?php include('includes/marketing.php'); ?>
 
-					<?php include('includes/publicar.php'); ?>
+					<?php include('includes/publicar.php'); ?> 
+					-->
 
 					<?php include('includes/oficina-links.php'); ?>
 
