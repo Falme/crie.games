@@ -56,6 +56,8 @@
 				<div class="col-12 col-md-9 nav-content" id="nav-header">
 					
 					<?php include('includes/quem-somos.php'); ?>
+					
+					<?php include('includes/o-que-sao-jogos.php'); ?>
 
 					<?php include('includes/habilidades.php'); ?>
 
