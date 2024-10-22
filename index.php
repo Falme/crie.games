@@ -12,7 +12,7 @@
 			<div id="header" class="row m-0">
 				<div class="col-12">
 					<div class="nav-section" style="margin-left: 2rem; top: 0.5rem; position: relative">
-						<h4>Crie Games <i>v0.0.3 - Edição: <a href="https://blogs.correiobraziliense.com.br/capital-sa/2024/09/20/epidemia-das-apostas-brasileiros-ja-gastaram-r-68-bilhoes-em-apostas-on-line/" target="_blank" rel="noopener noreferrer">Bets Destroem Vidas</a></i></h4>
+						<h4>Crie Games <i>v0.0.4 - Edição: <a href="https://blogs.correiobraziliense.com.br/capital-sa/2024/09/20/epidemia-das-apostas-brasileiros-ja-gastaram-r-68-bilhoes-em-apostas-on-line/" target="_blank" rel="noopener noreferrer">Bets Destroem Vidas</a></i></h4>
 					</div>
 				</div>
 			</div>
