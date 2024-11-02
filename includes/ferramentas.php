@@ -117,6 +117,11 @@
         Nem sequer esse em que você está agora. A internet é gigantesca e você se surpreenderia com a quantidade de pessoas que estão fazendo ferramentas, artes, audios, listas e mais listas de assets que adiantam e ajudam na hora de acelerar a criação de protótipos e médios/pequenos projetos. Sendo assim, aqui estão alguns repositórios que podem ser extremamente úteis para seu desenvolvimento.
     </p>
     <div class="text-separator"></div>
+    <img src="assets/images/opengameart.png" /> <br />
+    <p>
+        <a href="https://opengameart.org/" target="_blank" rel="noopener noreferrer">Open Game Art</a> é um clássico para quem está buscando assets de arte, textura ou 3D gratuito para usar em seus jogos. Normalmente o estilo artistico não vai combinar com o seu projeto ou outros assets, mas é perfeito para protótipos e game jams. Lembre-se sempre de colocar o autor nos créditos.
+    </p>
+    <div class="text-separator"></div>
     <img src="assets/images/xelu-controller-keyboard-prompts.png" /> <br />
     <p>
         <a href="https://thoseawesomeguys.com/prompts/" target="_blank" rel="noopener noreferrer">Xelu's Free Controllers & Keyboard Prompts</a> é um pacote livre com ícones de botões e gestos de controles, mouse e teclado para sua Interface. Normalmente isso é um problema para Porting, o artista ter que desenhar cada botão diferente para cada console (PC, Xbox, Nintendo, PlayStation, etc), e isso pode dar problema na certificação para publicar o jogo. Se no seu projeto os botões não precisam ser estilizados, essa é a solução perfeita e gratuita para sua interface, só colocar o nome do autor nos créditos, nada mais.
