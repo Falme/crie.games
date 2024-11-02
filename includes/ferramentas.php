@@ -109,5 +109,12 @@
     <p>
         <a href="https://sfbgames.itch.io/chiptone" target="_blank" rel="noopener noreferrer">Chiptone</a> é a ferramenta perfeita para os famosos "bips e boops", gerando sons semelhantes a época dos 8 e 16 bits. É perfeito para efeitos sonoros se esse é o estilo do jogo que está buscando alcançar. E todos os sons que você gerar nele é totalmente gratuito para usar, pessoalmente ou comercialmente. Brinque um pouco com ele e veja o quão útil ele é.
     </p>
+    <div id="ferramentas-repositorios"></div>
+    <div class="text-separator"></div>
+    <h3>Não existe melhor repositório de assets.</h3>
+    <div class="text-separator"></div>
+    <p>
+        Nem sequer esse em que você está agora. A internet é gigantesca e você se surpreenderia com a quantidade de pessoas que estão fazendo ferramentas, artes, audios, listas e mais listas de assets que adiantam e ajudam na hora de acelerar a criação de protótipos e médios/pequenos projetos. Sendo assim, aqui estão alguns repositórios que podem ser extremamente úteis para seu desenvolvimento.
+    </p>
 </div>
 <br /><br />

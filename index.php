@@ -46,6 +46,9 @@
 						<ul>
 							<a href="#nav-tools-audio">Audio</a>
 						</ul>
+						<ul>
+							<a href="#ferramentas-repositorios">Repositórios</a>
+						</ul>
 						<li><a href="#links-oficina">Links da Oficina de Game Design</a></li>
 						<li><a href="#contato">Contato</a></li>
 					</ol>
