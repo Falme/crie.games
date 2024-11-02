@@ -121,5 +121,10 @@
     <p>
         <a href="https://thoseawesomeguys.com/prompts/" target="_blank" rel="noopener noreferrer">Xelu's Free Controllers & Keyboard Prompts</a> é um pacote livre com ícones de botões e gestos de controles, mouse e teclado para sua Interface. Normalmente isso é um problema para Porting, o artista ter que desenhar cada botão diferente para cada console (PC, Xbox, Nintendo, PlayStation, etc), e isso pode dar problema na certificação para publicar o jogo. Se no seu projeto os botões não precisam ser estilizados, essa é a solução perfeita e gratuita para sua interface, só colocar o nome do autor nos créditos, nada mais.
     </p>
+    <div class="text-separator"></div>
+    <img src="assets/images/ultimate-resource-database.png" /> <br />
+    <p>
+        Se você não encontrou aqui o repositório que precisava, ele vai estar em <a href="https://gentleland.notion.site/Ultimate-Resource-Database-9f7f86e9ce5a408090eee1985182d951" target="_blank" rel="noopener noreferrer">Ultimate Resource Database</a>. Este é uma pagina do Notion com diversos links para diversas ferramentas, ela sendo paga, por assinatura ou gratuita. Dê uma olhada nas listas desse repositório, você pode achar algo melhor do que procura.
+    </p>
 </div>
 <br /><br />
