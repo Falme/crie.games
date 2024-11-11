@@ -122,6 +122,11 @@
         <a href="https://opengameart.org/" target="_blank" rel="noopener noreferrer">OpenGameArt.Org</a> é um clássico para quem está buscando assets de arte, textura ou 3D gratuito para usar em seus jogos. Normalmente o estilo artistico não vai combinar com o seu projeto ou outros assets, mas é perfeito para protótipos e game jams. Lembre-se sempre de colocar o autor nos créditos.
     </p>
     <div class="text-separator"></div>
+    <img src="assets/images/kenney.png" /> <br />
+    <p>
+        <a href="https://www.kenney.nl/assets" target="_blank" rel="noopener noreferrer">Kenney</a> definitivamente tem uma boa reputação na área e não é a toa, tem ótimos assets de graça em 2D, 3D e UI, para protótipos, Game Jams e até produtos finais. Realmente vale a pena dar uma olhada.
+    </p>
+    <div class="text-separator"></div>
     <img src="assets/images/game-icons-net.png" /> <br />
     <p>
         <a href="https://game-icons.net/" target="_blank" rel="noopener noreferrer">Game-icons.net</a> contém icones em SVG feito pela comunidade, tem lindos ícones para ser usado gratuítamente em seu jogo, e se precisar editar, ele já está vetorizado. Só colocar o autor nos créditos, só isso, nada mais.
