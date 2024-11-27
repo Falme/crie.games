@@ -122,6 +122,11 @@
         <a href="https://opengameart.org/" target="_blank" rel="noopener noreferrer">OpenGameArt.Org</a> é um clássico para quem está buscando assets de arte, textura ou 3D gratuito para usar em seus jogos. Normalmente o estilo artistico não vai combinar com o seu projeto ou outros assets, mas é perfeito para protótipos e game jams. Lembre-se sempre de colocar o autor nos créditos.
     </p>
     <div class="text-separator"></div>
+    <img src="assets/images/kenney.png" /> <br />
+    <p>
+        <a href="https://www.kenney.nl/assets" target="_blank" rel="noopener noreferrer">Kenney</a> definitivamente tem uma boa reputação na área e não é a toa, tem ótimos assets de graça em 2D, 3D e UI, para protótipos, Game Jams e até produtos finais. Realmente vale a pena dar uma olhada.
+    </p>
+    <div class="text-separator"></div>
     <img src="assets/images/game-icons-net.png" /> <br />
     <p>
         <a href="https://game-icons.net/" target="_blank" rel="noopener noreferrer">Game-icons.net</a> contém icones em SVG feito pela comunidade, tem lindos ícones para ser usado gratuítamente em seu jogo, e se precisar editar, ele já está vetorizado. Só colocar o autor nos créditos, só isso, nada mais.
@@ -134,7 +139,7 @@
     <div class="text-separator"></div>
     <img src="assets/images/ultimate-resource-database.png" /> <br />
     <p>
-        Se você não encontrou aqui o repositório que precisava, ele vai estar em <a href="https://gentleland.notion.site/Ultimate-Resource-Database-9f7f86e9ce5a408090eee1985182d951" target="_blank" rel="noopener noreferrer">Ultimate Resource Database</a>. Este é uma pagina do Notion com diversos links para diversas ferramentas, ela sendo paga, por assinatura ou gratuita. Dê uma olhada nas listas desse repositório, você pode achar algo melhor do que procura.
+        Se você não encontrou aqui o repositório que precisava, ele vai estar em <a href="https://gentleland.notion.site/Ultimate-Resource-Database-9f7f86e9ce5a408090eee1985182d951" target="_blank" rel="noopener noreferrer">Ultimate Resource Database</a>. Essa é uma pagina do Notion com diversos links para diversas ferramentas, ela sendo paga, por assinatura ou gratuita. Dê uma olhada nas listas desse repositório, você pode achar algo melhor do que procura.
     </p>
 </div>
 <br /><br />
