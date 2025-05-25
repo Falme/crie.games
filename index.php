@@ -19,7 +19,13 @@
 			<div id="header" class="row m-0">
 				<div class="col-12">
 					<div class="nav-section" style="margin-left: 2rem; top: 0.5rem; position: relative">
-						<h4>Crie Games <i>v0.0.5 - Edição: Escala 6x1 é Desumano</i></h4>
+						<h4>Crie Games <i>v0.0.6 - Edição: Apoie Eventos Locais 
+							<a href="https://www.instagram.com/firmagamedev/" target="_blank" rel="noopener noreferrer">[1] </a>
+							<a href="https://www.instagram.com/eaijogos/" target="_blank" rel="noopener noreferrer">[2] </a>
+							<a href="https://www.instagram.com/newgameplusfest/" target="_blank" rel="noopener noreferrer">[3] </a>
+							<a href="https://www.instagram.com/hugsp_/" target="_blank" rel="noopener noreferrer">[4] </a>
+							<a href="https://recnplay.pe/" target="_blank" rel="noopener noreferrer">[5] </a>
+						</i></h4>
 					</div>
 				</div>
 			</div>
