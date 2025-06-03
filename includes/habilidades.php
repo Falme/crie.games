@@ -46,5 +46,16 @@
     <p>
         <a href="https://store.steampowered.com/app/435400/Hidden_Folks/" target="_blank" rel="noopener noreferrer">Hidden Folks</a> é uma bela evolução do "Onde está o Wally?". É super simples em seu conceito, mas muito efetivo na sua execução. A parte que mais chama a atenção nesse jogo é o áudio, em que tudo, e quando eu digo tudo é tudo mesmo, é feito com sons da boca. Toda a música, os efeitos sonoros, todo o áudio foi feito com o rosto de alguém. É incrível. Se você tem um rosto, então você consegue fazer um jogo.
     </p>
+    <div class="text-separator"></div>
+	<p>
+		Algumas palavras do Leonardo Lima, que trabalhou no Audio do Dodgeball Academia, pode ajudar quem está querendo iniciar nesse mundo.
+
+		"Áudio é uma área bem abrangente que embarca várias habilidades e gostos. Existe área de composição, sound design, voiceover (locução), localização e por aí vai... E que todas tem suas especificidades."
+
+		Ele também menciona ferramentas como Reaper, que terá mais detalhes na sessão de Ferramentas.
+
+		
+
+	</p>
 </div>
 <br /><br />

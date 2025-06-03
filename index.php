@@ -1,3 +1,5 @@
+<?php include('methods.php'); ?>
+
 <!DOCTYPE html>
 <html>
 	<head>
@@ -20,11 +22,11 @@
 				<div class="col-12">
 					<div class="nav-section" style="margin-left: 2rem; top: 0.5rem; position: relative">
 						<h4>Crie Games <i>v0.0.6 - Edição: Apoie Eventos Locais 
-							<a href="https://www.instagram.com/firmagamedev/" target="_blank" rel="noopener noreferrer">[1] </a>
-							<a href="https://www.instagram.com/eaijogos/" target="_blank" rel="noopener noreferrer">[2] </a>
-							<a href="https://www.instagram.com/newgameplusfest/" target="_blank" rel="noopener noreferrer">[3] </a>
-							<a href="https://www.instagram.com/hugsp_/" target="_blank" rel="noopener noreferrer">[4] </a>
-							<a href="https://recnplay.pe/" target="_blank" rel="noopener noreferrer">[5] </a>
+							<?php href("[1]", "https://www.instagram.com/firmagamedev/"); ?>
+							<?php href("[2]", "https://www.instagram.com/eaijogos/"); ?>
+							<?php href("[3]", "https://www.instagram.com/newgameplusfest/"); ?>
+							<?php href("[4]", "https://www.instagram.com/hugsp_/"); ?>
+							<?php href("[5]", "https://recnplay.pe/"); ?>
 						</i></h4>
 					</div>
 				</div>
@@ -95,7 +97,7 @@
 		</div>
 		<div class="separator XGizmo"></div>
 		<br />
-		<div class="footer">Inspirado em <a href="https://www.develop.games/" target="_blank" rel="noopener noreferrer">develop.games</a> - Pirate Software</div>
+		<div class="footer">Inspirado em <?php href("develop.games", "https://www.develop.games/"); ?> - Pirate Software</div>
 		<br />
 	</body>
 </html>

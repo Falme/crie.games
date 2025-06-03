@@ -22,10 +22,10 @@
     <div class="text-separator"></div>
     <img src="assets/images/twitch_splash.jpg" /> <br />
     <p>
-        <a href="https://www.twitch.tv/" target="_blank" rel="noopener noreferrer">Twitch</a> Tem sido a base da receitas de estúdios. Serve como uma ótima maneira de interagir com a comunidade, uma fonte de receita e uma propaganda interativa em tempo real do trabalho que realizamos.
+        <?php href("Twitch", "https://www.twitch.tv/"); ?> Tem sido a base da receitas de estúdios. Serve como uma ótima maneira de interagir com a comunidade, uma fonte de receita e uma propaganda interativa em tempo real do trabalho que realizamos.
     </p>
     <p>
-        Depois de uma <a href="https://twitch.uservoice.com/forums/310210-discover-browsing-and-searching/suggestions/42795278-create-a-game-development-category" target="_blank" rel="noopener noreferrer" >longa caminhada</a> Twitch recentemente criou a categoria de <a href="https://www.twitch.tv/directory/game/Software%20and%20Game%20Development" target="_blank" rel="noopener noreferrer" >Desenvolvimento de Programas e Jogos</a>. Finalmente temos um lar como desenvolvedores de jogos e não poderiamos estar mais feliz.
+        Depois de uma <?php href("longa caminhada", "https://twitch.uservoice.com/forums/310210-discover-browsing-and-searching/suggestions/42795278-create-a-game-development-category"); ?> Twitch recentemente criou a categoria de <?php href("Desenvolvimento de Programas e Jogos", "https://www.twitch.tv/directory/game/Software%20and%20Game%20Development"); ?>. Finalmente temos um lar como desenvolvedores de jogos e não poderiamos estar mais feliz.
     </p>
     <div id="nav-finance-publishers"></div>
     <div class="text-separator"></div>
@@ -44,7 +44,7 @@
     <div class="text-separator"></div>
     <img src="assets/images/catarse.jpg" /> <br />
     <p>
-        <a href="https://www.catarse.me/" target="_blank" rel="noopener noreferrer">Catarse</a> é um ótimo lugar para arrecadar fundos quando você já tem uma base da comunidade e uma demonstração para apresentar. Eu não recomendaria seguir esse caminho antes de ter essas coisas prontas. Eu também não confiaria no Catarse como algo que financiará todo o desenvolvimento do seu jogo. Normalmente é usado como plataforma de marketing e para obter financiamento inicial para hardware e software. Também deve-se pensar nas recompensas do público por te financiar, isso também é um custo que deve ser pensado e balanceado com o financeiro. Espere para lançar seu Catarse até saber que terá sucesso. Não deixe isso ao acaso.
+        <?php href("Catarse", "https://www.catarse.me/"); ?> é um ótimo lugar para arrecadar fundos quando você já tem uma base da comunidade e uma demonstração para apresentar. Eu não recomendaria seguir esse caminho antes de ter essas coisas prontas. Eu também não confiaria no Catarse como algo que financiará todo o desenvolvimento do seu jogo. Normalmente é usado como plataforma de marketing e para obter financiamento inicial para hardware e software. Também deve-se pensar nas recompensas do público por te financiar, isso também é um custo que deve ser pensado e balanceado com o financeiro. Espere para lançar seu Catarse até saber que terá sucesso. Não deixe isso ao acaso.
     </p>
     <div id="nav-finance-subscription"></div>
     <div class="text-separator"></div>
@@ -52,7 +52,7 @@
     <div class="text-separator"></div>
     <img src="assets/images/kofi_splash.png" /> <br />
     <p>
-        <a href="https://ko-fi.com/" target="_blank" rel="noopener noreferrer" >Ko-Fi</a> é como Patreon se Patreon não fosse o verdadeiro diabo. Ao contrário do diabo real, o Ko-Fi cobra uma taxa fixa pelo seu serviço de assinatura. No momento são 54 dólares por ano. São 4,50 dólares por mês. Sem porcentagens ocultas ou outras malandragens. Literalmente todas as funcionalidades que o Patreon oferece, mas sem o imposto infernal de 8%.
+        <?php href("Ko-Fi", "https://ko-fi.com/"); ?> é como Patreon se Patreon não fosse o verdadeiro diabo. Ao contrário do diabo real, o Ko-Fi cobra uma taxa fixa pelo seu serviço de assinatura. No momento são 54 dólares por ano. São 4,50 dólares por mês. Sem porcentagens ocultas ou outras malandragens. Literalmente todas as funcionalidades que o Patreon oferece, mas sem o imposto infernal de 8%.
     </p>
     <p>
         Quando as pessoas ingressam nos "Tiers", elas também pagam imediatamente, para que não haja mais pagamentos de compensação ou conteúdo roubado quando alguém recusa seu cartão no final do mês. Eles também possuem um sistema de alerta para o seu stream e você pode aceitar doações por meio deles. Mude para Ko-Fi. Serio.
