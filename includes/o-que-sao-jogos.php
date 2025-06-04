@@ -8,7 +8,7 @@
         Essa pergunta parece simples, mas essa dúvida vem sendo perguntada há mais de 100 anos. Normalmente só respondemos com <i>"Se eu ver, eu sei o que é"</i>, mas para nós e para vocês criadores não deve ser só isso. Devemos entender o seu conceito e seus limites para que possamos discutir corretamente quando alguém usar jogos para o mal, desinformação ou discurso de ódio.
     </p>
     <p>
-        Mas para resumir sua definição, <a href="https://www.jesperjuul.net/text/gameplayerworld/" target="_blank" rel="noopener noreferrer">alguns parâmetros sempre se repetem</a>, desde Johan Huizinga até Jesper Juul. Eles são: 
+        Mas para resumir sua definição, <?php href("alguns parâmetros sempre se repetem", "https://www.jesperjuul.net/text/gameplayerworld/"); ?>, desde Johan Huizinga até Jesper Juul. Eles são: 
     </p>
     
     <div class="text-separator"></div>
@@ -45,7 +45,7 @@
     </p>
     <p>
         <li>
-            <b>Improdutivo:</b> Da mesma forma que jogos são fictícios, suas economias, perdas e ganhos também devem ser fictícios, ou seja, não geram bens a sociedade. <a href="https://blogs.correiobraziliense.com.br/capital-sa/2024/09/20/epidemia-das-apostas-brasileiros-ja-gastaram-r-68-bilhoes-em-apostas-on-line/" target="_blank" rel="noopener noreferrer">Sim, isso significa que Loterias e Apostas não são consideradas jogos</a>.
+            <b>Improdutivo:</b> Da mesma forma que jogos são fictícios, suas economias, perdas e ganhos também devem ser fictícios, ou seja, não geram bens a sociedade. <?php href("Sim, isso significa que Loterias e Apostas não são consideradas jogos", "https://blogs.correiobraziliense.com.br/capital-sa/2024/09/20/epidemia-das-apostas-brasileiros-ja-gastaram-r-68-bilhoes-em-apostas-on-line/"); ?>.
         </li>
     </p>
     
@@ -55,7 +55,7 @@
         Também devemos esclarecer que muitas vezes jogos digitais são vistos como uma evolução do jogo de tabuleiro, o que não é verdade, são experiências diferentes em que cada um tem algo único a oferecer.
     </p>
     <p>
-        Jogos digitais tem super poderes que faz dele único, como poder jogar o mesmo jogo centenas de vezes com resultados completamente diferentes como em Roguelikes. Histórias emergentes e procedurais complexas como em <a href="https://store.steampowered.com/app/975370/Dwarf_Fortress/" target="_blank" rel="noopener noreferrer">Dwarf Fortress</a> e <a href="https://store.steampowered.com/app/294100/RimWorld/" target="_blank" rel="noopener noreferrer">Rimworld</a>. E mundos inteiros online com centenas ou milhares de jogadores jogando ao mesmo tempo em busca de uma missão ou matar um dragão extremamente poderoso.
+        Jogos digitais tem super poderes que faz dele único, como poder jogar o mesmo jogo centenas de vezes com resultados completamente diferentes como em Roguelikes. Histórias emergentes e procedurais complexas como em <?php href("Dwarf Fortress", "https://store.steampowered.com/app/975370/Dwarf_Fortress/"); ?> e <?php href("Rimworld", "https://store.steampowered.com/app/294100/RimWorld/"); ?>. E mundos inteiros online com centenas ou milhares de jogadores jogando ao mesmo tempo em busca de uma missão ou matar um dragão extremamente poderoso.
     </p>
 </div>
 <br /><br />

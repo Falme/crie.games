@@ -11,7 +11,7 @@
 	<div id="nav-launch-steam"></div>
 	<img src="assets/images/steam_splash.jpg" /> <br />
 	<p>
-		<a href="https://store.steampowered.com/" target="_blank" rel="noopener noreferrer" >Steam</a> é a melhor plataforma de monetização que existe para jogos. Com um front-end enorme voltado para a interação e feedback dos jogadores, um back-end robusto para ajudá-lo a gerenciar seus ativos e finanças e toneladas de ferramentas promocionais, o Steam realmente tem tudo.
+		<?php href("Steam", "https://store.steampowered.com/"); ?> é a melhor plataforma de monetização que existe para jogos. Com um front-end enorme voltado para a interação e feedback dos jogadores, um back-end robusto para ajudá-lo a gerenciar seus ativos e finanças e toneladas de ferramentas promocionais, o Steam realmente tem tudo.
 	</p>
 	<p>
 		O Steam tem vendas regulares em toda a plataforma nas quais você pode participar. Você pode definir o preço de venda e pode aceitar ou recusar à vontade. Eles não fazem nada com o seu jogo sem o seu consentimento em nenhum momento. Adicionar seu jogo a uma promoção geralmente dá um grande impulso à descoberta durante a venda. Se você colocar seu jogo à venda com pelo menos 20% de desconto ou mais, todos que colocaram o jogo na lista de desejos receberão um e-mail sobre isso. Use isso para ajudar a aumentar a visibilidade e colocar seu jogo nas mãos de mais pessoas.
@@ -26,18 +26,18 @@
 	<div id="nav-launch-humble"></div>
 	<img src="assets/images/humble_splash.webp" /> <br />
 	<p>
-		<a href="https://www.humblebundle.com/" target="_blank" rel="noopener noreferrer" >Humble Bundle</a> é uma ótima plataforma intermediária que pode ajudar a melhorar suas vendas distribuindo chaves Steam. Eles não recebem nenhum valor de sua venda, a menos que você doe parte de seu lucro para eles, o que pode realmente ajudar quando você está apenas começando. Eles também têm um programa de parceria para que as pessoas que compram coisas que você recomenda possam lhe dar um pequeno aumento na renda de forma passiva. Geralmente coloco links de parceria para ferramentas e jogos que usamos ou jogamos em streaming.
+		<?php href("Humble Bundle", "https://www.humblebundle.com/"); ?> é uma ótima plataforma intermediária que pode ajudar a melhorar suas vendas distribuindo chaves Steam. Eles não recebem nenhum valor de sua venda, a menos que você doe parte de seu lucro para eles, o que pode realmente ajudar quando você está apenas começando. Eles também têm um programa de parceria para que as pessoas que compram coisas que você recomenda possam lhe dar um pequeno aumento na renda de forma passiva. Geralmente coloco links de parceria para ferramentas e jogos que usamos ou jogamos em streaming.
 	</p>
 	<div class="text-separator"></div>
 	<div id="nav-launch-jolt"></div>
 	<img src="assets/images/gamejolt_splash.jpg" /> <br />
 	<p>
-		<a href="https://gamejolt.com/" target="_blank" rel="noopener noreferrer" >Game Jolt</a> é o deus dos sites de demonstração. Faça uma demonstração do seu jogo e coloque no Game Jolt. Quando lançaram uma demonstração de Heartbound no Steam pela primeira vez, viram um tráfego mínimo. Assim que colocaram no Game Jolt, milhares de pessoas o jogaram e, no primeiro ano, quase 95% de todos os vídeos do YouTube para Heartbound listaram o Game Jolt como o local de download. Foi muito importante para eles e realmente ajudou a divulgar o jogo. Eles também oferecem um pouco de dinheiro extra com os anúncios exibidos na sua página de jogos. Eles não precisam fazer isso e é uma coisa muito boa para lucrar de vez em quando.
+		<?php href("Game Jolt", "https://gamejolt.com/"); ?> é o deus dos sites de demonstração. Faça uma demonstração do seu jogo e coloque no Game Jolt. Quando lançaram uma demonstração de Heartbound no Steam pela primeira vez, viram um tráfego mínimo. Assim que colocaram no Game Jolt, milhares de pessoas o jogaram e, no primeiro ano, quase 95% de todos os vídeos do YouTube para Heartbound listaram o Game Jolt como o local de download. Foi muito importante para eles e realmente ajudou a divulgar o jogo. Eles também oferecem um pouco de dinheiro extra com os anúncios exibidos na sua página de jogos. Eles não precisam fazer isso e é uma coisa muito boa para lucrar de vez em quando.
 	</p>
 	<div class="text-separator"></div>
 	<div id="nav-launch-itch"></div>
 	<img src="assets/images/itch_splash.jpg" /> <br />
 	<p>
-		<a href="https://itch.io/" target="_blank" rel="noopener noreferrer" >Itch.io</a> tem mais capacidade de personalização do que qualquer outro site, mas infelizmente carece no departamento de descoberta. Você definitivamente levará a maioria das pessoas a encontrar sua página aqui, mas quando o fizerem... ah, minha ciência... será lindo. Quer dizer... basta olhar o nosso no link aí. Você também pode vender chaves Steam através do Itch.io como mais uma fonte de renda com grande efeito. Se você deseja uma vitrine sofisticada e bonita para realizar suas vendas, este é o site para você.
+		<?php href("Itch.io", "https://itch.io/"); ?> tem mais capacidade de personalização do que qualquer outro site, mas infelizmente carece no departamento de descoberta. Você definitivamente levará a maioria das pessoas a encontrar sua página aqui, mas quando o fizerem... ah, minha ciência... será lindo. Quer dizer... basta olhar o nosso no link aí. Você também pode vender chaves Steam através do Itch.io como mais uma fonte de renda com grande efeito. Se você deseja uma vitrine sofisticada e bonita para realizar suas vendas, este é o site para você.
 	</p>
 </div>
