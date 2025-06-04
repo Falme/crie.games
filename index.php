@@ -36,36 +36,36 @@
 			<div class="row m-0">
 				<div class="col-12 col-md-3 nav-section">
 					<ol>
-						<li><a href="#header">Inicio</a></li>
-						<li><a href="#nav-game">Quem Somos Nós?</a></li>
-						<li><a href="#o-que-sao-jogos">O que são Jogos?</a></li>
-						<li><a href="#nav-skills">Preciso saber de ... ?</a></li>
+						<li><?php href("Inicio", "#header"); ?></li>
+						<li><?php href("Quem Somos Nós?", "#nav-game"); ?></li>
+						<li><?php href("O que são Jogos?", "#o-que-sao-jogos"); ?></li>
+						<li><?php href("Preciso saber de ... ?", "#nav-skills"); ?></li>
 						<ul>
-							<a href="#nav-skills-programming">Programação</a>
+							<?php href("Programação", "#nav-skills-programming"); ?>
 						</ul>
 						<ul>
-							<a href="#nav-skills-art">Arte</a>
+							<?php href("Arte", "#nav-skills-art"); ?>
 						</ul>
 						<ul>
-							<a href="#nav-skills-music">Musica</a>
+							<?php href("Musica", "#nav-skills-music"); ?>
 						</ul>
-						<li><a href="#nav-type">Escolhendo um Gênero</a></li>
-						<li><a href="#nav-team">Montando um Time</a></li>
-						<li><a href="#nav-tools">Ferramentas</a></li>
+						<li><?php href("Escolhendo um Gênero", "#nav-type"); ?></li>
+						<li><?php href("Montando um Time", "#nav-team"); ?></li>
+						<li><?php href("Ferramentas", "#nav-tools"); ?></li>
 						<ul>
-							<a href="#nav-tools-engine">Programação</a>
-						</ul>
-						<ul>
-							<a href="#nav-tools-art">Arte e Modelagem</a>
+							<?php href("Programação", "#nav-tools-engine"); ?>
 						</ul>
 						<ul>
-							<a href="#nav-tools-audio">Audio</a>
+							<?php href("Arte e Modelagem", "#nav-tools-art"); ?>
 						</ul>
 						<ul>
-							<a href="#ferramentas-repositorios">Repositórios</a>
+							<?php href("Audio", "#nav-tools-audio"); ?>
 						</ul>
-						<li><a href="#links-oficina">Links da Oficina de Game Design</a></li>
-						<li><a href="#contato">Contato</a></li>
+						<ul>
+							<?php href("Repositórios", "#ferramentas-repositorios"); ?>
+						</ul>
+						<li><?php href("Links da Oficina de Game Design", "#links-oficina"); ?></li>
+						<li><?php href("Contato", "#contato"); ?></li>
 					</ol>
 					<br /><br /><br />
 					<div class="home-anchor">

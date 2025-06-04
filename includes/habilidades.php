@@ -13,7 +13,7 @@
     <div class="text-separator"></div>
     <img src="assets/images/undertale_splash.jpg" /> <br />
     <p>
-        Sim, é isso mesmo que você leu. <a href="https://store.steampowered.com/app/391540/Undertale/" target="_blank" rel="noopener noreferrer" >Undertale</a> é um jogo INCRÍVEL. Tem um combate único, ótima história, os quebra-cabeças são bons, e tem boas piadas ruins a rodo. Toby Fox era só um programador iniciante quando começou e o código tem umas escolhas duvidosas em eficiência. Mas isso importa? O jogo vai ser menos divertido por causa disso? Dica: Não importa. Você pode aprender programação enquanto desenvolve o jogo. Você consegue fazer um jogo.
+        Sim, é isso mesmo que você leu. <?php href("Undertale", "https://store.steampowered.com/app/391540/Undertale/"); ?> é um jogo INCRÍVEL. Tem um combate único, ótima história, os quebra-cabeças são bons, e tem boas piadas ruins a rodo. Toby Fox era só um programador iniciante quando começou e o código tem umas escolhas duvidosas em eficiência. Mas isso importa? O jogo vai ser menos divertido por causa disso? Dica: Não importa. Você pode aprender programação enquanto desenvolve o jogo. Você consegue fazer um jogo.
     </p>
     <div id="nav-skills-art"></div>
     <div class="text-separator"></div>
@@ -21,22 +21,22 @@
     <div class="text-separator"></div>
     <img src="assets/images/thomas_splash.jpg" /> <br />
     <p>
-        <a href="https://store.steampowered.com/app/220780/Thomas_Was_Alone/" target="_blank" rel="noopener noreferrer">Thomas Was Alone</a> é feito só com retangulos. Tudo, tudinho. Tudinho mesmo. Até as partículas. Também vai te emocionar e fazer chorar. Thomas Was Alone é uma obra prima na arte minimalista e narração. Você pode fazer formas simples. Você pode aprender particulas só com formas simples. Você pode criar um jogo só com formas e ângulos que alcança o mesmo objetivo que Thomas Was Alone. Você consegue fazer um jogo.
+        <?php href("Thomas Was Alone", "https://store.steampowered.com/app/220780/Thomas_Was_Alone/"); ?> é feito só com retangulos. Tudo, tudinho. Tudinho mesmo. Até as partículas. Também vai te emocionar e fazer chorar. Thomas Was Alone é uma obra prima na arte minimalista e narração. Você pode fazer formas simples. Você pode aprender particulas só com formas simples. Você pode criar um jogo só com formas e ângulos que alcança o mesmo objetivo que Thomas Was Alone. Você consegue fazer um jogo.
     </p>
     <div class="text-separator"></div>
     <img src="assets/images/suits_splash.jpg" /> <br />
     <p>
-        <a href="https://store.steampowered.com/app/410670/Suits_A_Business_RPG/" target="_blank" rel="noopener noreferrer">Suits A Business RPG</a> foi feito com um pixel art bem simples e desenhado com lápis num papel e escaneado para o computador. É totalmente único e incrível. Isso mostra que você pode mudar os padrões dos jogos atuais e ainda ter sucesso. Se você pode rabiscar seus personagens num papel, então você consegue fazer um jogo.
+        <?php href("Suits A Business RPG", "https://store.steampowered.com/app/410670/Suits_A_Business_RPG/"); ?> foi feito com um pixel art bem simples e desenhado com lápis num papel e escaneado para o computador. É totalmente único e incrível. Isso mostra que você pode mudar os padrões dos jogos atuais e ainda ter sucesso. Se você pode rabiscar seus personagens num papel, então você consegue fazer um jogo.
     </p>
     <div class="text-separator"></div>
     <img src="assets/images/loathing_splash.jpg" /> <br />
     <p>
-        <a href="https://store.steampowered.com/app/597220/West_of_Loathing/" target="_blank" rel="noopener noreferrer">West of Loathing</a> é um glorioso sucessor do Kingdom of Loathing. É feito completamente com boneco de palito e um humor muito louco. Sua simplicidade cartunesca realmente ajuda a imergir na história e piadas do jogo o que faz ser ainda mais engraçado. Se você consegue fazer um boneco de palito, então você consegue fazer um jogo.
+        <?php href("West of Loathing", "https://store.steampowered.com/app/597220/West_of_Loathing/"); ?> é um glorioso sucessor do Kingdom of Loathing. É feito completamente com boneco de palito e um humor muito louco. Sua simplicidade cartunesca realmente ajuda a imergir na história e piadas do jogo o que faz ser ainda mais engraçado. Se você consegue fazer um boneco de palito, então você consegue fazer um jogo.
     </p>
     <div class="text-separator"></div>
     <img src="assets/images/nepenthe_splash.jpg" /> <br />
     <p>
-        <a href="https://store.steampowered.com/app/789570/Nepenthe/" target="_blank" rel="noopener noreferrer">Nepenthe</a> faz um trabalho similar ao Suits A Business RPG. Foi feito inteiramente com lápis de cor, escaneado para o computador e usado como tiles e assets no jogo. O efeito acaba sendo uma aventura bem única e surreal. Se você consegue desenhar rabiscos num papel, então você consegue fazer um jogo.
+        <?php href("Nepenthe", "https://store.steampowered.com/app/789570/Nepenthe/"); ?> faz um trabalho similar ao Suits A Business RPG. Foi feito inteiramente com lápis de cor, escaneado para o computador e usado como tiles e assets no jogo. O efeito acaba sendo uma aventura bem única e surreal. Se você consegue desenhar rabiscos num papel, então você consegue fazer um jogo.
     </p>
     <div id="nav-skills-music"></div>
     <div class="text-separator"></div>
@@ -44,7 +44,7 @@
     <div class="text-separator"></div>
     <img src="assets/images/hidden_splash.jpg" /> <br />
     <p>
-        <a href="https://store.steampowered.com/app/435400/Hidden_Folks/" target="_blank" rel="noopener noreferrer">Hidden Folks</a> é uma bela evolução do "Onde está o Wally?". É super simples em seu conceito, mas muito efetivo na sua execução. A parte que mais chama a atenção nesse jogo é o áudio, em que tudo, e quando eu digo tudo é tudo mesmo, é feito com sons da boca. Toda a música, os efeitos sonoros, todo o áudio foi feito com o rosto de alguém. É incrível. Se você tem um rosto, então você consegue fazer um jogo.
+        <?php href("Hidden Folks", "https://store.steampowered.com/app/435400/Hidden_Folks/"); ?> é uma bela evolução do "Onde está o Wally?". É super simples em seu conceito, mas muito efetivo na sua execução. A parte que mais chama a atenção nesse jogo é o áudio, em que tudo, e quando eu digo tudo é tudo mesmo, é feito com sons da boca. Toda a música, os efeitos sonoros, todo o áudio foi feito com o rosto de alguém. É incrível. Se você tem um rosto, então você consegue fazer um jogo.
     </p>
     <div class="text-separator"></div>
 	<p>
