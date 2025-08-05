@@ -97,7 +97,7 @@
 		</div>
 		<div class="separator XGizmo"></div>
 		<br />
-		<div class="footer">Inspirado em <?php href("develop.games", "https://www.develop.games/"); ?> - Pirate Software</div>
+		<div class="footer">Inspirado na UI da <?php href("Godot Engine", "https://godotengine.org/"); ?></div>
 		<br />
 	</body>
 </html>
