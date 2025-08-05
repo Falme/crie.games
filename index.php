@@ -8,10 +8,10 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 		<meta property="og:title" content="Crie.Games" />
-        <meta property="og:type" content="website" />
-        <meta property="og:description" content="Checkpoint para quem quer desenvolver jogos digitais.">
-        <meta property="og:url" content="https://crie.games/" />
-        <meta property="og:image" content="https://crie.games/assets/images/gamedev_splash.png" />
+		<meta property="og:type" content="website" />
+		<meta property="og:description" content="Checkpoint para quem quer desenvolver jogos digitais.">
+		<meta property="og:url" content="https://crie.games/" />
+		<meta property="og:image" content="https://crie.games/assets/images/gamedev_splash.png" />
 		
 		<link href="assets/css/bootstrap-grid.min.css" rel="stylesheet" />
 		<link href="assets/css/gamedev.css" rel="stylesheet" />
@@ -19,19 +19,27 @@
 	<body>
 		<div class="container-fluid p-0 shell">
 			<div id="header" class="row m-0">
-				<div class="col-12">
+				<div class="col-10">
 					<div class="nav-section" style="margin-left: 2rem; top: 0.5rem; position: relative">
-						<h4>Crie Games <i>v0.0.6 - Edição: Apoie Eventos Locais 
+						<h3 class="header-title"> Crie Games </h3> 
+						<div class="version">
+							v0.0.6 - Edição: Apoie Eventos Locais 
 							<?php href("[1]", "https://www.instagram.com/firmagamedev/"); ?>
 							<?php href("[2]", "https://www.instagram.com/eaijogos/"); ?>
 							<?php href("[3]", "https://www.instagram.com/newgameplusfest/"); ?>
 							<?php href("[4]", "https://www.instagram.com/hugsp_/"); ?>
 							<?php href("[5]", "https://recnplay.pe/"); ?>
-						</i></h4>
+						</div>
 					</div>
 				</div>
+				<div class="col-2">
+					<img src="assets/images/menu.svg" onclick="alert('menu');" />
+					<div style="float:right;background-color:red;width:50px;height:50px;"></div>
+				</div>
+				<div class="separator ZGizmo"></div>
 			</div>
-			<div class="separator ZGizmo"></div>
+			<br /><br />
+			<br /><br />
 			<br /><br />
 			<div class="row m-0">
 				<div class="col-12 col-md-3 nav-section">
