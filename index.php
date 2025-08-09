@@ -18,6 +18,41 @@
 	</head>
 	<body>
 		<div class="container-fluid p-0 shell">
+			<div id="lateral-menu" class="fixed-hide nav-section">
+				<ol>
+					<li><?php href("Quem Somos Nós?", "#nav-game"); ?></li>
+					<li><?php href("O que são Jogos?", "#o-que-sao-jogos"); ?></li>
+					<li><?php href("Preciso saber de ... ?", "#nav-skills"); ?></li>
+					<ul>
+						<?php href("Programação", "#nav-skills-programming"); ?>
+					</ul>
+					<ul>
+						<?php href("Arte", "#nav-skills-art"); ?>
+					</ul>
+					<ul>
+						<?php href("Musica", "#nav-skills-music"); ?>
+					</ul>
+					<li><?php href("Escolhendo um Gênero", "#nav-type"); ?></li>
+					<li><?php href("Montando um Time", "#nav-team"); ?></li>
+					<li><?php href("Ferramentas", "#nav-tools"); ?></li>
+					<ul>
+						<?php href("Programação", "#nav-tools-engine"); ?>
+					</ul>
+					<ul>
+						<?php href("Arte e Modelagem", "#nav-tools-art"); ?>
+					</ul>
+					<ul>
+						<?php href("Audio", "#nav-tools-audio"); ?>
+					</ul>
+					<ul>
+						<?php href("Repositórios", "#ferramentas-repositorios"); ?>
+					</ul>
+					<li><?php href("Links da Oficina de Game Design", "#links-oficina"); ?></li>
+					<li><?php href("Contato", "#contato"); ?></li>
+				</ol>
+				<br /><br /><br />
+					
+			</div>
 			<div id="header" class="row m-0">
 				<div class="col-10">
 					<div class="nav-section" style="margin-left: 2rem; top: 0.5rem; position: relative">
@@ -33,8 +68,7 @@
 					</div>
 				</div>
 				<div class="col-2">
-					<img src="assets/images/menu.svg" onclick="alert('menu');" />
-					<div style="float:right;background-color:red;width:50px;height:50px;"></div>
+					<img id="hamburger" src="assets/images/menu.svg" />
 				</div>
 				<div class="separator ZGizmo"></div>
 			</div>
@@ -42,6 +76,7 @@
 			<br /><br />
 			<br /><br />
 			<div class="row m-0">
+				<!-- 
 				<div class="col-12 col-md-3 nav-section">
 					<ol>
 						<li><?php href("Inicio", "#header"); ?></li>
@@ -80,7 +115,8 @@
 						<a href="#header" style="width:100%; height:100%;"></a>
 					</div>
 				</div>
-				<div class="col-12 col-md-9 nav-content" id="nav-header">
+				-->
+				<div class="col-12 nav-content" id="nav-header">
 					
 					<?php include('includes/quem-somos.php'); ?>
 					
@@ -108,4 +144,5 @@
 		<div class="footer">Inspirado na UI da <?php href("Godot Engine", "https://godotengine.org/"); ?></div>
 		<br />
 	</body>
+	<script src="./assets/js/index.js"></script>
 </html>
