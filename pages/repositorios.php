@@ -54,7 +54,7 @@
 					</div>
 				</div>
 				<div class="col-2">
-					<img id="hamburger" src="assets/images/menu.svg" />
+					<img id="hamburger" src="/assets/images/menu.svg" />
 				</div>
 				<div class="separator ZGizmo"></div>
 			</div>
@@ -64,28 +64,27 @@
 			<div class="row m-0">
 				<div class="col-12 nav-content" id="nav-header">
 					
-					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/quem-somos.php'); ?>
+					<?php include('includes/quem-somos.php'); ?>
 					
-					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/o-que-sao-jogos.php'); ?>
+					<?php include('includes/o-que-sao-jogos.php'); ?>
 
-					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/habilidades.php'); ?>
+					<?php include('includes/habilidades.php'); ?>
 
-					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/qual-jogo-fazer.php'); ?>
+					<?php include('includes/qual-jogo-fazer.php'); ?>
 
-					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/montar-time.php'); ?>
+					<?php include('includes/montar-time.php'); ?>
 
-					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/ferramentas.php'); ?>
+					<?php include('includes/ferramentas.php'); ?>
 
-					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/oficina-links.php'); ?>
+					<?php include('includes/oficina-links.php'); ?>
 
-					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/contato.php'); ?>
+					<?php include('includes/contato.php'); ?>
 
-					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/especializacoes.php'); ?>
+					<?php include('includes/especializacoes.php'); ?>
 
 				</div>
 			</div>
 			<br /><br /><br />
 			<br /><br /><br />
 		</div>
-
 <?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
