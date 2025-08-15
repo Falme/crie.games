@@ -112,6 +112,12 @@ a:hover
 	text-align: center;
 	background-color: blue;
 
+	border-style: solid;
+	border-color: gray;
+	padding: 20px 0;
+	width: 100%;
+	border-radius: 5px;
+	display: block;
 }
 
 .textbox
