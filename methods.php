@@ -9,4 +9,13 @@ function href(string $name, string $link)
 	}
 }
 
+function button_spec(string $name, string $link)
+{
+	echo '<div class="col-12 col-md-4 p-3">
+			<a href="' . $link . '" class="btn-especializacoes">
+				' . $name . '
+			</a>
+		</div>';
+}
+
 ?>
