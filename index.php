@@ -35,6 +35,7 @@
 					</ul>
 					<li><?php href("Links da Oficina de Game Design", "#links-oficina"); ?></li>
 					<li><?php href("Contato", "#contato"); ?></li>
+					<li><?php href("Especializações", "#especializacoes"); ?></li>
 				</ol>
 				<br /><br /><br />
 					
@@ -84,7 +85,6 @@
 
 				</div>
 			</div>
-			<br /><br /><br />
 			<br /><br /><br />
 		</div>
 

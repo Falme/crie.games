@@ -4,8 +4,16 @@
 
 <div id="especializacoes"></div>
 <br /><br />
-<div class="especializacoesbox ZGizmo">
+<div class="textbox ZGizmo">
+    <h1>Está buscando algo mais específico?</h1>
+    <div class="text-separator"></div>
+    <p>
+	Para que o site não fique tão longo, separamos informações de cada área/conteúdo em páginas separadas. Se quiser saber mais, só clicar nos botões abaixo.
+    </p>
 	<div class="row justify-content-around">
+		<?php button_spec("Programação", "../pages/repositorios.php") ?>
+		<?php button_spec("Game Design", "../pages/repositorios.php") ?>
+		<?php button_spec("Produção", "../pages/repositorios.php") ?>
 		<?php button_spec("Repositórios", "../pages/repositorios.php") ?>
 	</div>
 </div>
