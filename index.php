@@ -2,10 +2,7 @@
 
 <?php include($_SERVER['DOCUMENT_ROOT'].'/header.php'); ?>
 
-	<body>
-		<div class="container-fluid p-0 shell">
-			
-			<?php include($_SERVER['DOCUMENT_ROOT'].'/title.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/title.php'); ?>
 
 			<div id="lateral-menu" class="fixed-hide nav-section">
 				<ol>
@@ -40,7 +37,7 @@
 					<li><?php href("Contato", "#contato"); ?></li>
 					<li><?php href("Especializações", "#especializacoes"); ?></li>
 				</ol>
-				<br /><br /><br />
+				<br />
 					
 			</div>
 			<br /><br />
@@ -69,7 +66,5 @@
 
 				</div>
 			</div>
-			<br /><br /><br />
-		</div>
 
 <?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>

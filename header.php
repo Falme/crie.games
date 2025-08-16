@@ -14,4 +14,5 @@
 		<link href="/assets/css/bootstrap-grid.min.css" rel="stylesheet" />
 		<link href="/assets/css/gamedev.css" rel="stylesheet" />
 	</head>
-
+	<body>
+		<div class="container-fluid p-0 shell">
