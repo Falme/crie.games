@@ -110,7 +110,7 @@ a:hover
 .btn-especializacoes
 {
 	text-align: center;
-	background-color: #252b34;
+	background-color: #303743;
 	border-style: solid;
 	border-color: #70bafb;
 	padding: 20px 0;
@@ -123,7 +123,7 @@ a:hover
 
 .btn-especializacoes:hover
 {
-	background-color: #303743;
+	background-color: #252b34;
 }
 
 .textbox
