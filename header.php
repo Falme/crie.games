@@ -12,7 +12,7 @@
 		<meta property="og:image" content="https://crie.games/assets/images/gamedev_splash.png" />
 		
 		<link href="/assets/css/bootstrap-grid.min.css" rel="stylesheet" />
-		<link href="/assets/css/gamedev.css" rel="stylesheet" />
+		<link href="/assets/css/index.css" rel="stylesheet" />
 	</head>
 	<body>
 		<div class="container-fluid p-0 shell">
