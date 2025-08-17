@@ -82,3 +82,13 @@
 			</div>
 
 <?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
+
+<?php /* create_section(
+	array(
+		["Nome", "nometag", false, ".."],
+		["Nome2", "nometag2", true, "..."],
+		["Nome", "nometag", false, ".."],
+		)
+	);
+	*/ 
+?>
