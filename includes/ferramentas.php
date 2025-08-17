@@ -127,37 +127,5 @@
     <p>
         <?php href("Chiptone", "https://sfbgames.itch.io/chiptone"); ?> é a ferramenta perfeita para os famosos "bips e boops", gerando sons semelhantes a época dos 8 e 16 bits. É perfeito para efeitos sonoros se esse é o estilo do jogo que está buscando alcançar. E todos os sons que você gerar nele é totalmente gratuito para usar, pessoalmente ou comercialmente. Brinque um pouco com ele e veja o quão útil ele é.
     </p>
-    <div id="ferramentas-repositorios"></div>
-    <div class="text-separator"></div>
-    <h3>Não existe melhor repositório de assets.</h3>
-    <div class="text-separator"></div>
-    <p>
-        Nem sequer esse em que você está agora. A internet é gigantesca e você se surpreenderia com a quantidade de pessoas que estão fazendo ferramentas, artes, audios, listas e mais listas de assets que adiantam e ajudam na hora de acelerar a criação de protótipos e médios/pequenos projetos. Sendo assim, aqui estão alguns repositórios que podem ser extremamente úteis para seu desenvolvimento.
-    </p>
-    <div class="text-separator"></div>
-    <img src="assets/images/opengameart.png" /> <br />
-    <p>
-        <?php href("OpenGameArt.Org", "https://opengameart.org/"); ?> é um clássico para quem está buscando assets de arte, textura ou 3D gratuito para usar em seus jogos. Normalmente o estilo artistico não vai combinar com o seu projeto ou outros assets, mas é perfeito para protótipos e game jams. Lembre-se sempre de colocar o autor nos créditos.
-    </p>
-    <div class="text-separator"></div>
-    <img src="assets/images/kenney.png" /> <br />
-    <p>
-        <?php href("Kenney", "https://www.kenney.nl/assets"); ?> definitivamente tem uma boa reputação na área e não é a toa, tem ótimos assets de graça em 2D, 3D e UI, para protótipos, Game Jams e até produtos finais. Realmente vale a pena dar uma olhada.
-    </p>
-    <div class="text-separator"></div>
-    <img src="assets/images/game-icons-net.png" /> <br />
-    <p>
-        <?php href("Game-icons.net", "https://game-icons.net/"); ?> contém icones em SVG feito pela comunidade, tem lindos ícones para ser usado gratuítamente em seu jogo, e se precisar editar, ele já está vetorizado. Só colocar o autor nos créditos, só isso, nada mais.
-    </p>
-    <div class="text-separator"></div>
-    <img src="assets/images/xelu-controller-keyboard-prompts.png" /> <br />
-    <p>
-        <?php href("Xelu's Free Controllers & Keyboard Prompts", "https://thoseawesomeguys.com/prompts/"); ?> é um pacote livre com ícones de botões e gestos de controles, mouse e teclado para sua Interface. Normalmente isso é um problema para Porting, o artista ter que desenhar cada botão diferente para cada console (PC, Xbox, Nintendo, PlayStation, etc), e isso pode dar problema na certificação para publicar o jogo. Se no seu projeto os botões não precisam ser estilizados, essa é a solução perfeita e gratuita para sua interface, só colocar o nome do autor nos créditos, nada mais.
-    </p>
-    <div class="text-separator"></div>
-    <img src="assets/images/ultimate-resource-database.png" /> <br />
-    <p>
-        Se você não encontrou aqui o repositório que precisava, ele vai estar em <?php href("Ultimate Resource Database", "https://gentleland.notion.site/Ultimate-Resource-Database-9f7f86e9ce5a408090eee1985182d951"); ?>. Essa é uma pagina do Notion com diversos links para diversas ferramentas, ela sendo paga, por assinatura ou gratuita. Dê uma olhada nas listas desse repositório, você pode achar algo melhor do que procura.
-    </p>
 </div>
 <br /><br />

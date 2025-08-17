@@ -30,9 +30,6 @@
 					<ul>
 						<?php href("Audio", "#nav-tools-audio"); ?>
 					</ul>
-					<ul>
-						<?php href("Repositórios", "#ferramentas-repositorios"); ?>
-					</ul>
 					<li><?php href("Links da Oficina de Game Design", "#links-oficina"); ?></li>
 					<li><?php href("Contato", "#contato"); ?></li>
 					<li><?php href("Especializações", "#especializacoes"); ?></li>
