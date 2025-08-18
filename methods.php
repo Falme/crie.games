@@ -48,7 +48,24 @@ function create_section(array $args)
 			<div class="col-12 nav-content" id="nav-header">
 				<div id="nav-inicio"></div>
 				<br /><br />
+				<div class="textbox">
 		';
+	
+	foreach ($args as [$name, $tag, $subsection, $path]) {
+		if($path != "")
+		{
+			echo '<div id="nav-' . $tag . '"></div>';
+			include($_SERVER['DOCUMENT_ROOT'].'/pages/'.$path);
+		}
+	}
+
+	echo '
+					</div>
+					<br /><br />
+				</div>
+			</div>
+	';
+	
 }
 
 ?>
