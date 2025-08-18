@@ -21,11 +21,9 @@ function button_spec(string $name, string $link)
 // [Section Name, SectionTag, subsection?, SectionPathPHP]
 function create_section(array $args)
 {
-	/*
 	echo '<div id="lateral-menu" class="fixed-hide nav-section">
 	<ol>
 	';
-	*/
 
 	foreach ($args as [$name, $tag, $subsection]) {
 		if($subsection)
@@ -39,6 +37,18 @@ function create_section(array $args)
 			echo "</li>";
 		}
 	}
+
+	echo '	</ol>
+			<br /><br /><br />
+		</div>
+		<br /><br />
+		<br /><br />
+		<br /><br />
+		<div class="row m-0">
+			<div class="col-12 nav-content" id="nav-header">
+				<div id="nav-inicio"></div>
+				<br /><br />
+		';
 }
 
 ?>

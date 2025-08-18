@@ -4,31 +4,20 @@
 
 <?php include($_SERVER['DOCUMENT_ROOT'].'/title.php'); ?>
 
-			<div id="lateral-menu" class="fixed-hide nav-section">
-				<ol>
-					<li><?php href("Repositórios", "#nav-repositorio"); ?></li>
-					<li><?php href("Arte e Interface", "#nav-arte"); ?></li>
-					<ul>
-						<?php href("OpenGameArt", "#nav-opengameart"); ?>
-						<?php href("Kenney", "#nav-kenney"); ?>
-						<?php href("Game Icons", "#nav-gameicons"); ?>
-						<?php href("Xelu's Free Controllers & Keyboard Prompts", "#nav-xelu"); ?>
-					</ul>
-					<li><?php href("Outros repositórios", "#nav-outros-repositorios"); ?></li>
-					<ul>
-						<?php href("Ultimate Resource Database", "#nav-gentleland"); ?>
-					</ul>
-				</ol>
-				<br /><br /><br />
-					
-			</div>
-			<br /><br />
-			<br /><br />
-			<br /><br />
-			<div class="row m-0">
-				<div class="col-12 nav-content" id="nav-header">
-					<div id="nav-repositorio"></div>
-					<br /><br />
+
+<?php create_section(
+	array(
+		["Repositórios", "repositorio", false, ".."],
+		["Arte e Interface", "arte", false, "..."],
+		["OpenGameArt", "opengameart", true, "..."],
+		["Kenney", "kenney", true, "..."],
+		["Game Icons", "gameicons", true, "..."],
+		["Xelu's Free Controllers & Keyboard Prompts", "xelu", true, "..."],
+		["Outros repositórios", "outros-repositorios", false, "..."],
+		["Ultimate Resource Database", "gentleland", true, "..."],
+		)
+	);
+?>
 					<div class="textbox">
 						<img src="/assets/images/gamedev_splash.png" style="width: 100%" /> <br />
 						<h1>Repositórios</h1>
@@ -82,13 +71,3 @@
 			</div>
 
 <?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php'); ?>
-
-<?php /* create_section(
-	array(
-		["Nome", "nometag", false, ".."],
-		["Nome2", "nometag2", true, "..."],
-		["Nome", "nometag", false, ".."],
-		)
-	);
-	*/ 
-?>
