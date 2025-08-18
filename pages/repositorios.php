@@ -15,6 +15,7 @@
 		["Xelu's Free Controllers & Keyboard Prompts", "xelu", true, "repositorios/xelu.php"],
 		["Outros repositórios", "outros-repositorios", false, "repositorios/outros-repositorios.php"],
 		["Ultimate Resource Database", "gentleland", true, "repositorios/gentleland.php"],
+		["DNA Codex", "dna-codex", true, "repositorios/dna-codex.php"],
 		)
 	);
 ?>
