@@ -1,4 +1,4 @@
-<div id="nav-type"></div>
+<div class="fragment" id="nav-type"></div>
 <br /><br />
 <div class="textbox">
     <img src="assets/images/gamedev_splash.png" style="width: 100%" /> <br />

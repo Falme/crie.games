@@ -1,4 +1,4 @@
-<div id="nav-skills"></div>
+<div class="fragment" id="nav-skills"></div>
 <br /><br />
 <div class="textbox">
     <img src="assets/images/gamedev_splash.png" style="width: 100%" /> <br />
@@ -7,7 +7,7 @@
     <p>
         E se eu te dissesse que você não precisa de nenhuma? Bem, adivinhe, você não precisa. Vivemos em uma eṕoca que podemos aprender qualquer coisa que precisa para desenvolver um jogo com facilidade. Mesmo que você acredite em talento e que algumas habilidades vem de nascença, Todos nós podemos aprender e nos dedicar a sermos melhores no que queremos fazer. Você pode fazer o mesmo. Abaixo temos alguns jogos que provam isso e que vão te inspirar.
     </p>
-    <div id="nav-skills-programming"></div>
+    <div class="fragment" id="nav-skills-programming"></div>
     <div class="text-separator"></div>
     <h3>Você não precisa ser um(a) programador(a) incrível.</h3>
     <div class="text-separator"></div>
@@ -15,7 +15,7 @@
     <p>
         Sim, é isso mesmo que você leu. <?php href("Undertale", "https://store.steampowered.com/app/391540/Undertale/"); ?> é um jogo INCRÍVEL. Tem um combate único, ótima história, os quebra-cabeças são bons, e tem boas piadas ruins a rodo. Toby Fox era só um programador iniciante quando começou e o código tem umas escolhas duvidosas em eficiência. Mas isso importa? O jogo vai ser menos divertido por causa disso? Dica: Não importa. Você pode aprender programação enquanto desenvolve o jogo. Você consegue fazer um jogo.
     </p>
-    <div id="nav-skills-art"></div>
+    <div class="fragment" id="nav-skills-art"></div>
     <div class="text-separator"></div>
     <h3>Você não precisa ser um(a) artista incrível.</h3>
     <div class="text-separator"></div>
@@ -38,7 +38,7 @@
     <p>
         <?php href("Nepenthe", "https://store.steampowered.com/app/789570/Nepenthe/"); ?> faz um trabalho similar ao Suits A Business RPG. Foi feito inteiramente com lápis de cor, escaneado para o computador e usado como tiles e assets no jogo. O efeito acaba sendo uma aventura bem única e surreal. Se você consegue desenhar rabiscos num papel, então você consegue fazer um jogo.
     </p>
-    <div id="nav-skills-music"></div>
+    <div class="fragment" id="nav-skills-music"></div>
     <div class="text-separator"></div>
     <h3>Você não precisa ser um(a) musicista incrível.</h3>
     <div class="text-separator"></div>

@@ -1,4 +1,4 @@
-<div id="nav-game"></div>
+<div class="fragment" id="nav-game"></div>
 <div class="textbox">
     <img src="assets/images/gamedev_splash.png" style="width: 100%" /> <br />
     <h1>Quem Somos Nós?</h1>

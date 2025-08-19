@@ -1,4 +1,4 @@
-<div id="nav-marketing"></div>
+<div class="fragment" id="nav-marketing"></div>
 <br /><br />
 <div class="textbox">
     <img src="assets/images/gamedev_splash.png" style="width: 100%" />
@@ -7,7 +7,7 @@
     <p>
         Existem várias maneiras diferentes de abordar o marketing para desenvolvedores independentes. A principal coisa a lembrar sempre é que se alguém disser que existe uma maneira melhor, provavelmente está vendendo algo para você e isso geralmente só dá mais dinheiro para esse alguém. Faça o que achar melhor para seu estúdio, seus jogos e sua comunidade. Sempre.
     </p>
-    <div id="nav-marketing-community"></div>
+    <div class="fragment" id="nav-marketing-community"></div>
     <div class="text-separator"></div>
     <h3>Construindo uma comunidade</h3>
     <div class="text-separator"></div>
@@ -17,7 +17,7 @@
     <p>
         Você nunca está acima de sua comunidade e nunca é importante demais para perder tempo respondendo a eles. No momento em que você pensa que é, eles lhe mostrarão o quão falso isso realmente é. Não se esqueça disso.
     </p>
-    <div id="nav-marketing-socialmedia"></div>
+    <div class="fragment" id="nav-marketing-socialmedia"></div>
     <div class="text-separator"></div>
     <h3>Redes Sociais</h3>
     <div class="text-separator"></div>
@@ -36,7 +36,7 @@
     <p>
         Muitos desenvolvedores mais novos tentarão imediatamente atirar em streamers ou youtubers famosos para alcançar os holofotes. Essas pessoas recebem milhares, senão dezenas de milhares de solicitações todos os dias. Concentre-se em sua comunidade e, eventualmente, um dos grandes nomes poderá notar e divulgar seu produto para seu público.
     </p>
-    <div id="nav-marketing-advertising"></div>
+    <div class="fragment" id="nav-marketing-advertising"></div>
     <div class="text-separator"></div>
     <h3>Anúncios Pagos</h3>
     <div class="text-separator"></div>
@@ -46,7 +46,7 @@
     <p>
         Dito isto, você pode querer experimentar diferentes métodos de publicidade. Você pode encontrar algo que funcione para você. Só porque nosso estúdio não encontrou um benefício aqui, não significa que você não encontrará.
     </p>
-    <div id="nav-marketing-conventions"></div>
+    <div class="fragment" id="nav-marketing-conventions"></div>
     <div class="text-separator"></div>
     <h3>Convenções</h3>
     <div class="text-separator"></div>
@@ -59,7 +59,7 @@
     <p>
         A mercadoria pode realmente ajudar a compensar os custos da convenção se você tiver algumas coisas boas. Tente levar adesivos, broches ou pelúcias para esse tipo de show porque eles acabam sendo vendidos muito rápido. Fique longe de itens quebráveis, como canecas, ou itens de tamanho restrito, como roupas, porque é muito mais difícil vender em um ambiente de convenção.
     </p>
-    <div id="nav-marketing-awards"></div>
+    <div class="fragment" id="nav-marketing-awards"></div>
     <div class="text-separator"></div>
     <h3>Prêmios</h3>
     <div class="text-separator"></div>

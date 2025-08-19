@@ -54,7 +54,7 @@ function create_section(array $args)
 	foreach ($args as [$name, $tag, $subsection, $path]) {
 		if($path != "")
 		{
-			echo '<div id="nav-' . $tag . '"></div>';
+			echo '<div class="fragment" id="nav-' . $tag . '"></div>';
 			include($_SERVER['DOCUMENT_ROOT'].'/pages/'.$path);
 		}
 	}

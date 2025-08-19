@@ -1,4 +1,4 @@
-<div id="nav-finance"></div>
+<div class="fragment" id="nav-finance"></div>
 <br /><br />
 <div class="textbox">
     <img src="assets/images/gamedev_splash.png" style="width: 100%" /> <br />

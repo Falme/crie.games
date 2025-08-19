@@ -1,4 +1,4 @@
-<div id="o-que-sao-jogos"></div>
+<div class="fragment" id="o-que-sao-jogos"></div>
 <br /><br />
 <div class="textbox">
     <img src="assets/images/gamedev_splash.png" style="width: 100%" /> <br />

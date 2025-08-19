@@ -10,7 +10,7 @@
     <p>
         Abaixo compilamos uma lista extensa de ferramentas para cada tipo de trabalho para seu jogo, e se tem uma lição que gostaríamos que ficasse é que a ferramenta serve ao seu jogo e não ao contrário. Não se deve escolher primeiro a ferramenta e depois fazer seu projeto nela, e sim analisar as necessidades do projeto e ver qual ferramenta combina melhor ou serve melhor para concluir seu projeto. Não existe melhor ferramenta, existe a ferramenta ideal para realizar seu trabalho.
     </p>
-    <div id="nav-tools-engine"></div>
+    <div class="fragment" id="nav-tools-engine"></div>
     <div class="text-separator"></div>
     <h3>Não existe melhor Game Engine.</h3>
     <div class="text-separator"></div>
@@ -59,7 +59,7 @@
 		<?php href("Ren'Py", "https://www.renpy.org/"); ?> é uma engine fantástica feita especificamente para romances visuais (Visual Novels). É totalmente gratuito, fácil de usar e possui uma grande comunidade caso tenha problemas com python ou em busca de exemplos. Definitivamente capaz de fazer alguns jogos incríveis e interessantes. Ren'py foi usado para fazer 
 		<?php href("Doki Doki Literature Club", "https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/"); ?>.
     </p>
-    <div id="nav-tools-art"></div>
+    <div class="fragment" id="nav-tools-art"></div>
     <div class="text-separator"></div>
     <h3>Não existe melhor programa de arte.</h3>
     <div class="text-separator"></div>
@@ -100,7 +100,7 @@
     <p>
         <?php href("Blender", "https://www.blender.org/"); ?> é uma ferramenta de modelagem e animação 3D realmente poderosa e totalmente gratuita. Ele pode fazer coisas absolutamente insanas e, à medida que continua a evoluir, atingiu ou excedeu o poder das melhores ferramentas de modelagem 3D disponíveis no mercado. Se você deseja construir assets incríveis em 3D, então este é o seu carro-chefe.
     </p>
-    <div id="nav-tools-audio"></div>
+    <div class="fragment" id="nav-tools-audio"></div>
     <div class="text-separator"></div>
     <h3>Não existe melhor programa de áudio.</h3>
     <div class="text-separator"></div>

@@ -1,4 +1,4 @@
-<div id="links-oficina"></div>
+<div class="fragment" id="links-oficina"></div>
 <br /><br />
 <div class="textbox">
     <img src="assets/images/zeldinha.png" style="width: 80%" /> <br />

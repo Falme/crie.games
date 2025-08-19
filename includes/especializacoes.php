@@ -2,7 +2,7 @@
 	
 ?>
 
-<div id="especializacoes"></div>
+<div class="fragment" id="especializacoes"></div>
 <br /><br />
 <div class="textbox ZGizmo">
     <h1>Está buscando algo mais específico?</h1>
