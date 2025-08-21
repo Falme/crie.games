@@ -13,9 +13,9 @@
 		["GameMaker", "gamemaker", true, "programacao/gamemaker.php"],
 		["Unreal Engine", "unreal", true, "programacao/unrealengine.php"],
 		["Ren'Py", "renpy", true, "programacao/renpy.php"],
-		["Game Engines Database", "enginesdatabase", true, "programacao/enginesdatabase.php"],
-		// ["Construct", "construct", true, "programacao/construct.php"],
+		["Construct", "construct", true, "programacao/construct.php"],
 		// ["GBstudio", "gbstudio", true, "programacao/gbstudio.php"],
+		["Game Engines Database", "enginesdatabase", true, "programacao/enginesdatabase.php"],
 		)
 	);
 ?>
