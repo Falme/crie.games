@@ -13,6 +13,8 @@
 		["Kenney", "kenney", true, "repositorios/kenney.php"],
 		["Game Icons", "gameicons", true, "repositorios/gameicons.php"],
 		["Xelu's Free Controllers & Keyboard Prompts", "xelu", true, "repositorios/xelu.php"],
+		["Modelos e Texturas 3D", "models3d", false, "repositorios/models3d.php"],
+		["Poly.Pizza", "polypizza", true, "repositorios/polypizza.php"],
 		["Outros repositórios", "outros-repositorios", false, "repositorios/outros-repositorios.php"],
 		["Ultimate Resource Database", "gentleland", true, "repositorios/gentleland.php"],
 		["DNA Codex", "dna-codex", true, "repositorios/dna-codex.php"],
