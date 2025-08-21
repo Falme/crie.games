@@ -1,7 +1,5 @@
 <?php include($_SERVER['DOCUMENT_ROOT'].'/methods.php'); ?>
-
 <?php include($_SERVER['DOCUMENT_ROOT'].'/header.php'); ?>
-
 <?php include($_SERVER['DOCUMENT_ROOT'].'/title.php'); ?>
 
 			<div id="lateral-menu" class="fixed-hide nav-section">
@@ -21,9 +19,9 @@
 					<li><?php href("Escolhendo um Gênero", "#nav-type"); ?></li>
 					<li><?php href("Montando um Time", "#nav-team"); ?></li>
 					<li><?php href("Ferramentas", "#nav-tools"); ?></li>
-					<ul>
+					<!-- <ul>
 						<?php href("Programação", "#nav-tools-engine"); ?>
-					</ul>
+					</ul> -->
 					<ul>
 						<?php href("Arte e Modelagem", "#nav-tools-art"); ?>
 					</ul>
@@ -42,25 +40,15 @@
 			<br /><br />
 			<div class="row m-0">
 				<div class="col-12 nav-content" id="nav-header">
-					
 					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/quem-somos.php'); ?>
-					
 					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/o-que-sao-jogos.php'); ?>
-
 					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/habilidades.php'); ?>
-
 					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/qual-jogo-fazer.php'); ?>
-
 					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/montar-time.php'); ?>
-
 					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/ferramentas.php'); ?>
-
 					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/oficina-links.php'); ?>
-
 					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/contato.php'); ?>
-
 					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/especializacoes.php'); ?>
-
 				</div>
 			</div>
 

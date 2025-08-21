@@ -10,6 +10,7 @@
     <p>
         Abaixo compilamos uma lista extensa de ferramentas para cada tipo de trabalho para seu jogo, e se tem uma lição que gostaríamos que ficasse é que a ferramenta serve ao seu jogo e não ao contrário. Não se deve escolher primeiro a ferramenta e depois fazer seu projeto nela, e sim analisar as necessidades do projeto e ver qual ferramenta combina melhor ou serve melhor para concluir seu projeto. Não existe melhor ferramenta, existe a ferramenta ideal para realizar seu trabalho.
     </p>
+    <!-- 
     <div class="fragment" id="nav-tools-engine"></div>
     <div class="text-separator"></div>
     <h3>Não existe melhor Game Engine.</h3>
@@ -23,42 +24,7 @@
     <p>
         Entenda que logo abaixo não é uma exaustiva lista de engines. Existe uma tonelada de engines que são boas ou ótimas para uma variedade de estilo de jogos para se criar. Então explore, encontre coisas, monte coisas, crie coisas, e não seja elitista sobre ferramentas. 
     </p>
-    <div class="text-separator"></div>
-    <img src="assets/images/godot_splash.png" /> <br />
-    <p>
-        <?php href("Godot", "https://godotengine.org"); ?> é Monstro. Completamente montado pela comunidade, totalmente Open Source e inteiramente de graça. É excelente para 3D e maravilhoso em 2D, e está começando a ser usado por <?php href("grandes empresas", "https://www.gamedeveloper.com/production/marvel-snap-developer-second-dinner-working-on-most-ambitious-godot-game-yet-"); ?> e <?php href("diversos grupos de desenvolvedores", "https://www.godotes.com/issue-51-almost-there/"); ?>, isso porque a Unity3D passou por um problema com seu público envolvendo monetizar em cima de <?php href("cada acesso ao jogo", "https://www.gamedeveloper.com/business/unity-wants-to-rebuild-trust-but-one-major-runtime-fee-claim-doesn-t-add-up"); ?>, causando uma grande migração para o Godot. Godot Engine é incrível e não existe melhor opção que a livre e de graça. Literalmente de graça. Não de graça com uma pegadinha. Realmente de graça. Godot foi usado para fazer <?php href("Dome Keeper", "https://store.steampowered.com/app/1637320/Dome_Keeper/"); ?>, <?php href("Endoparasitic", "https://store.steampowered.com/app/2124780/Endoparasitic/"); ?> e <?php href("Buckshot Roulette", "https://store.steampowered.com/app/2835570/Buckshot_Roulette/"); ?>.
-    </p>
-    <div class="text-separator"></div>
-    <img src="assets/images/gamemaker_splash.png" /> <br />
-    <p>
-        <?php href("GameMaker", "https://www.yoyogames.com/en/gamemaker"); ?>
-		é uma ótima engine para fazer jogos 2D, mas não muito para 3D (Mas isso nunca impediu ninguém, 
-		jogos como 
-		<?php href("Spooky's House of Jump Scares", "https://store.steampowered.com/app/356670/Spookys_Jump_Scare_Mansion/"); ?> e 
-		<?php href("Buck Up And Drive!", "https://gamemaker.io/pt-BR/blog/making-3d-in-gamemaker-drive"); ?> são muito bem vistos). Você pode usar a avaliação gratuita indefinidamente para uso não comercial e permite exportações para desktop PC, bem como para Web e mobile. O modelo de monetização é a seguinte: 100 dólares uma vez para uma licença vitalícia, para Consoles são 80 dólares por mês ou 800 dólares por ano. Eles não cobram royalties, o que é ótimo se o seu jogo der super certo. O Game Maker Studio foi usado para fazer 
-		<?php href("Heartbound", "https://store.steampowered.com/app/567380/Heartbound/"); ?>, 
-		<?php href("Hyper Light Drifter", "https://store.steampowered.com/app/257850/Hyper_Light_Drifter/"); ?>, 
-		<?php href("Risk of Rain", "https://store.steampowered.com/app/248820/Risk_of_Rain/"); ?>, 
-		<?php href("Nuclear Throne", "https://store.steampowered.com/app/242680/Nuclear_Throne/"); ?>, 
-		<?php href("Pizza Tower", "https://store.steampowered.com/app/2231450/Pizza_Tower/"); ?> e 
-		<?php href("Undertale", "https://store.steampowered.com/app/391540/Undertale/"); ?>. 
-    </p>
-    <div class="text-separator"></div>
-    <img src="assets/images/unreal_splash.jpg" /> <br />
-    <p>
-		<?php href("Unreal Engine", "https://www.unrealengine.com/en-US/download"); ?> é super poderoso na arena 3D. Possui um ótimo modelo de monetização. Se o seu jogo ganhar 
-		<?php href("menos de US$ 1.000.000 ao longo de sua vida útil", "https://www.unrealengine.com/pt-BR/release"); ?>, você não pagará nada. Qualquer coisa além disso tem royalties de 5% marcados. Eles também são totalmente gratuitos para uso em projetos não monetizados. Definitivamente ótimo para startups, mas pode ter uma curva de aprendizado bem difícil e específica. Unreal foi usado para fazer 
-		<?php href("Fortnite", "https://www.epicgames.com/fortnite/en-US/home"); ?>, 
-		<?php href("Conan Exiles", "https://store.steampowered.com/app/440900/Conan_Exiles/"); ?>, 
-		<?php href("Kingdom Hearts 3", "https://www.kingdomhearts.com/3/us/home/"); ?>, e 
-		<?php href("Octopath Traveler", "https://www.nintendo.com/games/detail/octopath-traveler-switch/"); ?>.
-    </p>
-    <div class="text-separator"></div>
-    <img src="assets/images/renpy_splash.png" style="width: 25%" /> <br />
-    <p>
-		<?php href("Ren'Py", "https://www.renpy.org/"); ?> é uma engine fantástica feita especificamente para romances visuais (Visual Novels). É totalmente gratuito, fácil de usar e possui uma grande comunidade caso tenha problemas com python ou em busca de exemplos. Definitivamente capaz de fazer alguns jogos incríveis e interessantes. Ren'py foi usado para fazer 
-		<?php href("Doki Doki Literature Club", "https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/"); ?>.
-    </p>
+        -->
     <div class="fragment" id="nav-tools-art"></div>
     <div class="text-separator"></div>
     <h3>Não existe melhor programa de arte.</h3>
