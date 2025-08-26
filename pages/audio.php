@@ -11,6 +11,9 @@
 
 		["Programas", "programas", false, "audio/programas.php"],
 		["FamiStudio", "famistudio", true, "audio/famistudio.php"],
+		["Anvil Studio", "anvil", true, "audio/anvil.php"],
+		["FL Studio", "flstudio", true, "audio/flstudio.php"],
+		["Chiptone", "chiptone", true, "audio/chiptone.php"],
 		)
 	);
 ?>

@@ -17,20 +17,5 @@
     <p>
         As informações sobre áudio é baseada nas informações de <?php href("Stijn van Wakeren", "http://stijnvanwakeren.com/"); ?> pelo site develop.games, pois não é realmente a nossa área de especialização. Definitivamente, você deve entrar em contato com pessoas da área de áudio design se tiver dúvidas sobre esses programas ou quiser obter mais informações sobre por que eles são tão poderosos. Dito isto, aqui estão alguns programas incríveis que você pode usar para criar música ou efeitos sonoros com relativa facilidade.
     </p>
-    <div class="text-separator"></div>
-    <img src="assets/images/anvil_splash.png" /> <br />
-    <p>
-        <?php href("Anvil Studio", "https://www.anvilstudio.com/"); ?> é uma plataforma de design de áudio MIDI totalmente gratuita. Se você está apenas começando ou realmente quer um toque oldschool agradável em seu áudio, eu realmente recomendo dar uma olhada. Você pode até imprimir partituras de suas criações com um de seus complementos.
-    </p>
-    <div class="text-separator"></div>
-    <img src="assets/images/flstudio_splash.jpg" /> <br />
-    <p>
-        <?php href("FL Studio", "https://www.image-line.com/fl-studio"); ?> é de longe o favorito para ferramentas de áudio. É incrivelmente fácil de usar, incrivelmente versátil, permitindo que você crie uma ampla variedade de coisas incríveis, e é bastante acessível, com um preço de 100 dólares para atualizações vitalícias. Se você realmente quer fazer mágica no áudio e quer algo poderoso e duradouro, o FL Studio é a escolha certa.
-    </p>
-    <div class="text-separator"></div>
-    <img src="assets/images/chiptone.png" /> <br />
-    <p>
-        <?php href("Chiptone", "https://sfbgames.itch.io/chiptone"); ?> é a ferramenta perfeita para os famosos "bips e boops", gerando sons semelhantes a época dos 8 e 16 bits. É perfeito para efeitos sonoros se esse é o estilo do jogo que está buscando alcançar. E todos os sons que você gerar nele é totalmente gratuito para usar, pessoalmente ou comercialmente. Brinque um pouco com ele e veja o quão útil ele é.
-    </p>
 </div>
 <br /><br />

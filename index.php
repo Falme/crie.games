@@ -18,10 +18,6 @@
 					</ul>
 					<li><?php href("Escolhendo um Gênero", "#nav-type"); ?></li>
 					<li><?php href("Montando um Time", "#nav-team"); ?></li>
-					<li><?php href("Ferramentas", "#nav-tools"); ?></li>
-					<ul>
-						<?php href("Audio", "#nav-tools-audio"); ?>
-					</ul>
 					<li><?php href("Links da Oficina de Game Design", "#links-oficina"); ?></li>
 					<li><?php href("Contato", "#contato"); ?></li>
 					<li><?php href("Especializações", "#especializacoes"); ?></li>
@@ -39,7 +35,6 @@
 					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/habilidades.php'); ?>
 					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/qual-jogo-fazer.php'); ?>
 					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/montar-time.php'); ?>
-					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/ferramentas.php'); ?>
 					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/oficina-links.php'); ?>
 					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/contato.php'); ?>
 					<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/especializacoes.php'); ?>
