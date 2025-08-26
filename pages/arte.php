@@ -13,9 +13,11 @@
 		["Aseprite", "aseprite", true, "arte/aseprite.php"],
 		["Libresprite", "libresprite", true, "arte/libresprite.php"],
 
-		// ["3D", "3d", false, "arte/3d.php"],
-		// ["", "", true, "arte/unrealengine.php"],
-		// ["", "", true, "arte/renpy.php"],
+		["3D", "3d", false, "arte/3d.php"],
+		["Blender", "blender", true, "arte/blender.php"],
+
+		["Vetorização", "vetorizacao", false, "arte/vetorizacao.php"],
+		["Inkscape", "inkscape", true, "arte/inkscape.php"],
 		// ["", "", true, "arte/construct.php"],
 		// ["", "", true, "arte/gbstudio.php"],
 		// ["", "", true, "arte/unity.php"],

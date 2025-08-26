@@ -10,33 +10,6 @@
     <p>
         Abaixo compilamos uma lista extensa de ferramentas para cada tipo de trabalho para seu jogo, e se tem uma lição que gostaríamos que ficasse é que a ferramenta serve ao seu jogo e não ao contrário. Não se deve escolher primeiro a ferramenta e depois fazer seu projeto nela, e sim analisar as necessidades do projeto e ver qual ferramenta combina melhor ou serve melhor para concluir seu projeto. Não existe melhor ferramenta, existe a ferramenta ideal para realizar seu trabalho.
     </p>
-    <!-- 
-    <div class="fragment" id="nav-tools-engine"></div>
-    <div class="text-separator"></div>
-    <h3>Não existe melhor Game Engine.</h3>
-    <div class="text-separator"></div>
-    <p>
-        Escolha uma engine que dá suporte ao seu estilo de jogo e capacidade financeira. Não escolha engines baseado no que outras pessoas dizem que é a "Melhor" engine. Não existe uma "Melhor" engine. Existem ótimas engines para diferentes tipos de jogos. Ferramentas não são simplificadas baseada no seu preço ou falta de preço. Tem centenas de engines disponíveis por ai. Vá para o endereço <?php href("Engines Database", "https://enginesdatabase.com/"); ?> e explore suas opções. 
-    </p>
-    <p>
-        <?php href("Doki Doki Literature Club", "https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/"); ?> foi feito em uma ferramenta grátis chamada <?php href("Ren'Py", "https://www.renpy.org/"); ?> que é feita especificamente para criar visual novels. <?php href("Risk of Rain", "https://store.steampowered.com/app/248820/Risk_of_Rain/"); ?> foi feito em <?php href("GameMaker", "https://www.yoyogames.com/en/gamemaker"); ?> e <?php href("MS Paint", "https://web.archive.org/web/20210920062120/https://riskofraingame.com/team/"); ?>. Sim, você leu certo... MS Paint. O custo das suas ferramentas não define o valor do que vai criar. 
-    </p>
-    <p>
-        Entenda que logo abaixo não é uma exaustiva lista de engines. Existe uma tonelada de engines que são boas ou ótimas para uma variedade de estilo de jogos para se criar. Então explore, encontre coisas, monte coisas, crie coisas, e não seja elitista sobre ferramentas. 
-    </p>
-        -->
-    <div class="fragment" id="nav-tools-art"></div>
-    <div class="text-separator"></div>
-    <h3>Não existe melhor programa de arte.</h3>
-    <div class="text-separator"></div>
-    <p>
-        Assim como acontece com engines, você deve escolher o programa de arte que funciona melhor para você, de acordo com seu estilo e com o projeto que irá se dedicar. Só porque um programa custa mais ou é mais usado em determinados círculos não significa que seja melhor para você ou para seu fluxo de trabalho. Todo mundo trabalha de maneira diferente e todos se sentem mais ou menos confortáveis ​​com diferentes softwares e hardwares. Se você quiser usar o MS Paint em um tablet, tudo bem. Se você quiser usar o Photoshop em um Cintiq, tudo bem também.
-    </p>
-    <div class="text-separator"></div>
-    <img src="assets/images/inkscape.jpg" /> <br />
-    <p>
-       <?php href("Inkscape", "https://inkscape.org/en/release/"); ?> é um editor gráfico em vetor similar ao Adobe Illustrator. A diferença é que ele é Open-Source e totalmente gratuito. Existe muito preconceito em cima do Inkscape pois as pessoas estão acostumadas a usar o Adobe Illustrator, mas posso garantir pra você que nos últimos anos eles se tornaram praticamente idênticos, as mesmas coisas que você pode fazer em um, você pode fazer no outro e de forma acessível, com certeza vale o teste.
-    </p>
     <div class="text-separator"></div>
     <img src="assets/images/gimp_splash.png" style="width: 40%" /> <br />
     <p>
@@ -46,11 +19,6 @@
     <img src="assets/images/krita.png" /> <br />
     <p>
         <?php href("Krita", "https://krita.org/en/"); ?> é uma ferramenta fantástica para ilustração e animação. Ela é de graça e Open source fazendo com que tudo o que criar nela seja totalmente seu. Se ilustração e artes conceituais é algo que te interessa, Krita é um bom motivo para se libertar dos grilhões do Photoshop.
-    </p>
-    <div class="text-separator"></div>
-    <img src="assets/images/blender_splash.png" /> <br />
-    <p>
-        <?php href("Blender", "https://www.blender.org/"); ?> é uma ferramenta de modelagem e animação 3D realmente poderosa e totalmente gratuita. Ele pode fazer coisas absolutamente insanas e, à medida que continua a evoluir, atingiu ou excedeu o poder das melhores ferramentas de modelagem 3D disponíveis no mercado. Se você deseja construir assets incríveis em 3D, então este é o seu carro-chefe.
     </p>
     <div class="fragment" id="nav-tools-audio"></div>
     <div class="text-separator"></div>
