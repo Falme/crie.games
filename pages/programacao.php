@@ -8,15 +8,19 @@
 <?php create_section(
 	array(
 		["Programação", "programacao", false, "programacao/intro.php"],
+
 		["Engines", "engines", false, "programacao/engines.php"],
 		["Godot Engine", "godot", true, "programacao/godotengine.php"],
 		["GameMaker", "gamemaker", true, "programacao/gamemaker.php"],
 		["Unreal Engine", "unreal", true, "programacao/unrealengine.php"],
-		// ["Ren'Py", "renpy", true, "programacao/renpy.php"],
+		["Ren'Py", "renpy", true, "programacao/renpy.php"],
 		["Construct", "construct", true, "programacao/construct.php"],
 		["GBstudio", "gbstudio", true, "programacao/gbstudio.php"],
 		["Unity3D", "unity", true, "programacao/unity.php"],
 		["Game Engines Database", "enginesdatabase", true, "programacao/enginesdatabase.php"],
+
+		["Código Puro", "purecode", false, "programacao/purecode.php"],
+		["C++", "cpp", true, "programacao/cpp.php"],
 		)
 	);
 ?>
