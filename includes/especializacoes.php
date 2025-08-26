@@ -12,6 +12,7 @@
     </p>
 	<div class="row justify-content-around">
 		<?php button_spec("Programação", "../pages/programacao.php") ?>
+		<?php button_spec("Arte", "../pages/arte.php") ?>
 		<?php button_spec("Repositórios", "../pages/repositorios.php") ?>
 	</div>
 </div>

@@ -33,20 +33,6 @@
         Assim como acontece com engines, você deve escolher o programa de arte que funciona melhor para você, de acordo com seu estilo e com o projeto que irá se dedicar. Só porque um programa custa mais ou é mais usado em determinados círculos não significa que seja melhor para você ou para seu fluxo de trabalho. Todo mundo trabalha de maneira diferente e todos se sentem mais ou menos confortáveis ​​com diferentes softwares e hardwares. Se você quiser usar o MS Paint em um tablet, tudo bem. Se você quiser usar o Photoshop em um Cintiq, tudo bem também.
     </p>
     <div class="text-separator"></div>
-    <img src="assets/images/aseprite_splash.png" /> <br />
-    <p>
-		<?php href("Aseprite", "https://www.aseprite.org/"); ?> é o verdadeiro deus das ferramentas de pixel art. Custando 38 reais, essa ferramenta é super acessível, mas também traz um bônus extra. Pelos fórums recomendam que você compre pelo 
-		<?php href("Humble Bundle", "https://www.humblebundle.com/store/aseprite"); ?> quando tiver uma promoção, assim tendo a versão livre de DRM e uma chave para Steam em uma compra só. Você também pode obtê-lo gratuitamente se você compilar o Aseprite do 
-		<?php href("github deles", "https://github.com/aseprite/aseprite"); ?> ou pelo 
-		<?php href("Libresprite", "#libresprite"); ?> (logo abaixo) então você terá a ferramenta totalmente de graça para você. Pegue essa ferramenta, use ela, faça incríveis pixel art.
-    </p>
-    <div class="text-separator"></div>
-    <div id="libresprite"></div>
-    <img src="assets/images/libresprite.png" /> <br />
-    <p>
-        <?php href("Libresprite", "https://libresprite.github.io/#!/"); ?> é um fork do Aseprite que permite que, de forma gratuita, você possa usar uma das melhores ferramentas de pixel art no mercado. Não precisa mexer com código ou criar scripts, só instalar e usar. Mas caso queira auxiliar o desenvolvimento, pode comprar a versão original do programa chamado <?php href("Aseprite", "https://www.aseprite.org/"); ?>.
-    </p>
-    <div class="text-separator"></div>
     <img src="assets/images/inkscape.jpg" /> <br />
     <p>
        <?php href("Inkscape", "https://inkscape.org/en/release/"); ?> é um editor gráfico em vetor similar ao Adobe Illustrator. A diferença é que ele é Open-Source e totalmente gratuito. Existe muito preconceito em cima do Inkscape pois as pessoas estão acostumadas a usar o Adobe Illustrator, mas posso garantir pra você que nos últimos anos eles se tornaram praticamente idênticos, as mesmas coisas que você pode fazer em um, você pode fazer no outro e de forma acessível, com certeza vale o teste.
