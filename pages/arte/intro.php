@@ -1,4 +1,4 @@
-<img src="/assets/images/gamedev_splash.png" style="width: 100%" /> <br />
+<img class="intro-banner" src="/assets/images/gamedev_splash.png" style="width: 100%" /> <br />
 <h1>Arte</h1>
 <div class="text-separator"></div>
 <p>

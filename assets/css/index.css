@@ -157,6 +157,12 @@ a:hover
     object-fit: contain;
 }
 
+.textbox img.intro-banner
+{
+    max-height: none;
+    max-width: none;
+}
+
 .textbox h1, .textbox h2, .textbox h3, .textbox h4
 {
 	text-align: center;
