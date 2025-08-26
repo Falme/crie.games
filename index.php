@@ -19,12 +19,6 @@
 					<li><?php href("Escolhendo um Gênero", "#nav-type"); ?></li>
 					<li><?php href("Montando um Time", "#nav-team"); ?></li>
 					<li><?php href("Ferramentas", "#nav-tools"); ?></li>
-					<!-- <ul>
-						<?php href("Programação", "#nav-tools-engine"); ?>
-					</ul> -->
-					<ul>
-						<?php href("Arte e Modelagem", "#nav-tools-art"); ?>
-					</ul>
 					<ul>
 						<?php href("Audio", "#nav-tools-audio"); ?>
 					</ul>

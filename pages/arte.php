@@ -18,13 +18,12 @@
 
 		["Vetorização", "vetorizacao", false, "arte/vetorizacao.php"],
 		["Inkscape", "inkscape", true, "arte/inkscape.php"],
-		// ["", "", true, "arte/construct.php"],
-		// ["", "", true, "arte/gbstudio.php"],
-		// ["", "", true, "arte/unity.php"],
-		// ["", "", true, "arte/enginesdatabase.php"],
 
-		// ["", "", false, "arte/purecode.php"],
-		// ["", "", true, "arte/cpp.php"],
+		["Editor de Imagem", "editor-imagem", false, "arte/editor-imagem.php"],
+		["Gimp", "gimp", true, "arte/gimp.php"],
+
+		["Ilustração", "ilustracao", false, "arte/ilustracao.php"],
+		["Krita", "krita", true, "arte/krita.php"],
 		)
 	);
 ?>

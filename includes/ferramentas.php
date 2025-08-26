@@ -10,16 +10,6 @@
     <p>
         Abaixo compilamos uma lista extensa de ferramentas para cada tipo de trabalho para seu jogo, e se tem uma lição que gostaríamos que ficasse é que a ferramenta serve ao seu jogo e não ao contrário. Não se deve escolher primeiro a ferramenta e depois fazer seu projeto nela, e sim analisar as necessidades do projeto e ver qual ferramenta combina melhor ou serve melhor para concluir seu projeto. Não existe melhor ferramenta, existe a ferramenta ideal para realizar seu trabalho.
     </p>
-    <div class="text-separator"></div>
-    <img src="assets/images/gimp_splash.png" style="width: 40%" /> <br />
-    <p>
-        <?php href("Gimp", "https://www.gimp.org/"); ?> é uma ferramenta de edição de imagens incrivelmente fantástica, geralmente desprezada por ser o irmão feio do Photoshop. Dito isto, tem alguns superpoderes que o Photoshop não tem... não é propriedade da Adobe e é totalmente gratuito. Gimp é usado para muitas coisas ao longo dos anos, desde arte promocional até retoques em logotipos ou criação de recursos no jogo. Definitivamente, dê uma olhada nele, se não fez ainda.
-    </p>
-    <div class="text-separator"></div>
-    <img src="assets/images/krita.png" /> <br />
-    <p>
-        <?php href("Krita", "https://krita.org/en/"); ?> é uma ferramenta fantástica para ilustração e animação. Ela é de graça e Open source fazendo com que tudo o que criar nela seja totalmente seu. Se ilustração e artes conceituais é algo que te interessa, Krita é um bom motivo para se libertar dos grilhões do Photoshop.
-    </p>
     <div class="fragment" id="nav-tools-audio"></div>
     <div class="text-separator"></div>
     <h3>Não existe melhor programa de áudio.</h3>
