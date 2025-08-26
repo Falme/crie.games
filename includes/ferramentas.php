@@ -18,11 +18,6 @@
         As informações sobre áudio é baseada nas informações de <?php href("Stijn van Wakeren", "http://stijnvanwakeren.com/"); ?> pelo site develop.games, pois não é realmente a nossa área de especialização. Definitivamente, você deve entrar em contato com pessoas da área de áudio design se tiver dúvidas sobre esses programas ou quiser obter mais informações sobre por que eles são tão poderosos. Dito isto, aqui estão alguns programas incríveis que você pode usar para criar música ou efeitos sonoros com relativa facilidade.
     </p>
     <div class="text-separator"></div>
-    <img src="assets/images/famistudio_splash.jpg" /> <br />
-    <p>
-        <?php href("FamiStudio", "https://famistudio.org/"); ?> é uma ferramenta gratuita incrível para criar chiptunes e efeitos sonoros no estilo NES. Há uma enorme comunidade de fãs construída em torno dele e vários <?php href(" Tutoriais do Youtube", "https://www.youtube.com/watch?v=UyECgqFbZPQ"); ?> para você começar a fazer sons. Eu realmente amo os sons que saem dessa coisa e realmente atinge aquele fator nostálgico. Você pode até revisar o <?php href("código-fonte", "https://github.com/BleuBleu/FamiStudio"); ?> ou compilar ele você mesmo. Honestamente incrível.
-    </p>
-    <div class="text-separator"></div>
     <img src="assets/images/anvil_splash.png" /> <br />
     <p>
         <?php href("Anvil Studio", "https://www.anvilstudio.com/"); ?> é uma plataforma de design de áudio MIDI totalmente gratuita. Se você está apenas começando ou realmente quer um toque oldschool agradável em seu áudio, eu realmente recomendo dar uma olhada. Você pode até imprimir partituras de suas criações com um de seus complementos.
