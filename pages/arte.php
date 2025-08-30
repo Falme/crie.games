@@ -15,6 +15,8 @@
 
 		["3D", "3d", false, "arte/3d.php"],
 		["Blender", "blender", true, "arte/blender.php"],
+		["Blockbench", "blockbench", true, "arte/blockbench.php"],
+		["Poly Haven", "polyhaven", true, "arte/polyhaven.php"],
 
 		["Vetorização", "vetorizacao", false, "arte/vetorizacao.php"],
 		["Inkscape", "inkscape", true, "arte/inkscape.php"],
