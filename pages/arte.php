@@ -26,6 +26,7 @@
 
 		["Ilustração", "ilustracao", false, "arte/ilustracao.php"],
 		["Krita", "krita", true, "arte/krita.php"],
+		["PixiEditor", "pixieditor", true, "arte/pixieditor.php"],
 		)
 	);
 ?>
