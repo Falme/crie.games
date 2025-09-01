@@ -17,6 +17,7 @@
 
 		["Modelos e Texturas 3D", "models3d", false, "repositorios/models3d.php"],
 		["Poly.Pizza", "polypizza", true, "repositorios/polypizza.php"],
+		["Poly Haven", "polyhaven", true, "repositorios/polyhaven.php"],
 
 		["Áudios", "audio", false, "repositorios/audio.php"],
 		["Sonniss GDC", "sonniss-gdc", true, "repositorios/sonniss-gdc.php"],
