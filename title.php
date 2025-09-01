@@ -3,7 +3,7 @@
 		<div class="nav-section" style="margin-left: 2rem; top: 0.5rem; position: relative">
 			<h3 class="header-title"> <a href="/">Crie Games</a> </h3> 
 			<div class="version">
-				v0.0.7 - Edição: Silksong 
+				v0.0.8 - Edição: Julgamento do Bozo
 			</div>
 		</div>
 	</div>
