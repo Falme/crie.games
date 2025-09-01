@@ -67,6 +67,7 @@ a:hover
 	height: 50px;
 	margin-top: 20px;
 	float: right;
+    cursor: pointer;
 }
 
 #lateral-menu
