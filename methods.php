@@ -18,7 +18,7 @@ function button_spec(string $name, string $link)
 		</div>';
 }
 
-// [Section Name, SectionTag, subsection?, SectionPathPHP]
+// [Section Name, SectionTag, subsection?, SectionPathPHP, divider?]
 function create_section(array $args)
 {
 	echo '<div id="lateral-menu" class="fixed-hide nav-section">
@@ -51,21 +51,41 @@ function create_section(array $args)
 				<div class="textbox">
 		';
 	
-	foreach ($args as [$name, $tag, $subsection, $path]) {
+	foreach ($args as [$name, $tag, $subsection, $path, $divider]) {
 		if($path != "")
 		{
+            if($divider == true)
+            {
+                echo divider();
+            }
+
 			echo '<div class="fragment" id="nav-' . $tag . '"></div>';
 			include($_SERVER['DOCUMENT_ROOT'].'/pages/'.$path);
 		}
 	}
 
 	echo '
-					</div>
-					<br /><br />
-				</div>
-			</div>
+                </div>
+                <br /><br />
+            </div>
+        </div>
 	';
 	
+}
+
+function divider()
+{
+	return '
+                </div>
+                <br /><br />
+            </div>
+        </div>
+		<div class="row m-0">
+			<div class="col-12 nav-content" id="nav-header">
+				<div id="nav-inicio"></div>
+				<br /><br />
+				<div class="textbox">
+	';
 }
 
 ?>
