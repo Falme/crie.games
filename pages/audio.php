@@ -14,6 +14,9 @@
 		["Anvil Studio", "anvil", true, "audio/anvil.php"],
 		["FL Studio", "flstudio", true, "audio/flstudio.php"],
 		["Chiptone", "chiptone", true, "audio/chiptone.php"],
+
+		["Relatórios", "relatorios", false, "audio/relatorios.php", true],
+		["Leonardo Lima", "leonardolima", true, "audio/relatorio-leonardolima.php"],
 		)
 	);
 ?>
